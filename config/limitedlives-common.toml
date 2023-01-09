@@ -1,0 +1,15 @@
+
+#General settings
+[general]
+	#Maximum lives a player can have before being "banned".
+	#Range: > 1
+	maxLives = 3
+	#Ban type once the player dies too many times.
+	#Allowed Values: SPECTATOR, BAN
+	banType = "BAN"
+	#Length of time the player is banned (in seconds). Set to 0 to permaban.
+	#Range: > 0
+	banTime = 0
+	#Adjust health of the player?
+	healthAdjust = false
+

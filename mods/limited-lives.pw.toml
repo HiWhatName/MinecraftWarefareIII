@@ -1,0 +1,13 @@
+name = "Limited Lives"
+filename = "LimitedLives-1.19.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b77726ffa6c7757f15197cf0ea79a6b4f5324ad6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3974460
+project-id = 233040

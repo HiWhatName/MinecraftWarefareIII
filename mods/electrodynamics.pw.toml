@@ -1,0 +1,13 @@
+name = "Electrodynamics"
+filename = "Electrodynamics-1.19.2-0.7.0-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69757928ee4a1dadb7e1ca5589c6e76937c7bbc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4086209
+project-id = 316867

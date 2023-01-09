@@ -1,0 +1,13 @@
+name = "Realistic Explosion Physics"
+filename = "RealisticExplosionPhysics-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75ea4121b7dad0c373d76dbfb6617307c773c24e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3986517
+project-id = 453315
