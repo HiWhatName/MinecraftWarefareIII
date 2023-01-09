@@ -20,5 +20,7 @@ This will create a .zip file, which can be read by the offical launcher to downl
 Same as above but creates a way larger file containing all the mods already packed into the file itself. *(May be used by MultiMC to create a .mm instance)*
 
 #### Custom server mods:
+- You may add DeathBan next to Limited lives for a short ban on death.
+- For the full experience, use our fork of "Simple-planes" found at: https://git.jonas-sp.tk/HiWhatName/simply-better-planes
 
-For the full experience, use our fork of "Simple-planes" found at: https://git.jonas-sp.tk/HiWhatName/simply-better-planes
+(If you're wondering why there are so few commits, I lost 21 due to gitea not working and having to restore an backup -_-)
