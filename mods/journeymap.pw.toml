@@ -1,13 +1,13 @@
 name = "JourneyMap"
-filename = "journeymap-1.19.2-5.9.0-forge.jar"
+filename = "journeymap-1.19.2-5.9.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9948002e9faf454dbf381d885537ff5614f1136"
+hash = "852d2b66c96ed970e741926c234136a1893b0e9c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4240492
+file-id = 4321645
 project-id = 32274
