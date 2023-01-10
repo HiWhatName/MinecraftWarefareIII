@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-planes.pw.toml"
-hash = "017b69608bf240c41c73f839afc7126f434f450b302a473d5aea8d33e06b3d2b"
+hash = "091b069b4445086e380c8913b16f1296b66baa9da5c1796ac62e3a148644fe23"
 metafile = true
 
 [[files]]

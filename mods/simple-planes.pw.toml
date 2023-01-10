@@ -1,13 +1,13 @@
 name = "Simple Planes (Forge)"
-filename = "simpleplanes-1.19.2-5.1.0.jar"
+filename = "simpleplanes-1.19.2-5.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "94478d1998fef329dc1e8f040035534307514c22"
+hash = "3b0601008674d4d8b43a60b925d893affa322329"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4285311
+file-id = 4054028
 project-id = 388908
