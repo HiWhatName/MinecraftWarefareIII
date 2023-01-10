@@ -100,6 +100,11 @@ hash = "d2e0b626fbc6d1bc37eccbb3b93796ac44d377c171bd3a701edd9cbce47bcad3"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ac9b3c98bdb67f1e72b5ab5d207fab6fad251be4e48b5c0a7e2f689209c7b897"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
 metafile = true
@@ -185,6 +190,16 @@ hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d57b357ea70739175784679c99bf3ca541710cd84c6089485bec6af8e1f49357"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e2e27dc126a0e2c816bb6add2748f7000afa2840bd3e71d34feda2154edd1b3c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "51e05515802ccae4de0c6e2f201ed1dd91500c5cea281d1185265e5168270906"
 metafile = true
@@ -261,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "f43bb82b8f03c206aa51bf1a4c2b6f4762a94c39efa22e166857d1e5969a18dd"
+hash = "6e1e82ccb321fc987875b7379b7b03d246832c41b6d5ed4a1753480dd9283934"
 metafile = true
 
 [[files]]
