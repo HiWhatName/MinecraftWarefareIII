@@ -1,6 +1,16 @@
 # MWIII - Minecraft Warfare 3
 A simple modpack designed for an competition using packwiz. Try avoiding installing mods from multiple sources (Modrinth/Curseforge/Custom) ones from other platforms the main one (Curseforge) will be packed into the finall installation file, thus increasing its size.
 
+### Installation
+Download the latest release: <a href="https://git.jonas-sp.tk/HiWhatName/MWIII/releases">here</a>
+
+#### MultiMC (recommended)
+1. Open MultiMC and click "Add Instance" -> Import from zip -> Browse and select the file you just downloaded.
+2. Select the newly installed instance and select "Edit Instance" on the right. Head over to "Java settings" and make sure you're using version 16 or higher and have assigned at least 4GB of ram. (6GB being recommended)
+
+#### Curseforge (untested)
+Sorry, at this time we aren't able to supply instrunctions on how to install it for CurseForge. Tho, it should be as simple as adding a new Instance and selecting the zip file.
+
 ## Addings mods:
 `packwiz curseforge install URL`, will install a mod from the curseforge repositories and it's dependencies. Tho, some are locked behind their api and must be installed manually.
 
@@ -22,5 +32,4 @@ Same as above but creates a way larger file containing all the mods already pack
 #### Custom server mods:
 - You may add DeathBan next to Limited lives for a short ban on death.
 - For the full experience, use our fork of "Simple-planes" found at: https://git.jonas-sp.tk/HiWhatName/simply-better-planes
-
 (If you're wondering why there are so few commits, I lost 21 due to gitea not working and having to restore an backup -_-)
