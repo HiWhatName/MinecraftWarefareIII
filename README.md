@@ -2,7 +2,7 @@
 A simple modpack designed for an competition using packwiz. Try avoiding installing mods from multiple sources (Modrinth/Curseforge/Custom) ones from other platforms the main one (Curseforge) will be packed into the finall installation file, thus increasing its size.
 
 ### Installation
-Download the latest release: <a href="https://git.jonas-sp.tk/HiWhatName/MWIII/releases">here</a>
+Download the latest release: <a href="https://github.com/HiWhatName/MinecraftWarfareIII/releases">here</a>
 
 #### MultiMC (recommended)
 1. Open MultiMC and click "Add Instance" -> Import from zip -> Browse and select the file you just downloaded.
