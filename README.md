@@ -35,4 +35,3 @@ Same as above but creates a way larger file containing all the mods already pack
 
 ### Licensing
 While this project is provided under the AGPL-3.0 license, the following submodules have their own:
-- Default-Dark-Mode located at https://github.com/nebuIr/Default-Dark-Mode/releases/tag/v1.3.4
