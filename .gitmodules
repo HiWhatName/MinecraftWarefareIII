@@ -1,3 +1,4 @@
 [submodule "resourcepacks/Default-Dark-Mode"]
 	path = resourcepacks/Default-Dark-Mode
-	url = https://github.com/nebuIr/Default-Dark-Mode/
+    url = https://github.com/nebuIr/Default-Dark-Mode/
+    branch = tags/v1.3.4

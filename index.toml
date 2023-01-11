@@ -160,11 +160,6 @@ hash = "e79c0c7ce7d67628a19b74480d9d3fe0dfd2bf1cbb5505d167f033815c3d84a7"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "d63e0f4c29a8b64fa25361d8ed31c0fffcecc12eaa9a155d14899fa5475f1d4f"
-metafile = true
-
-[[files]]
 file = "mods/electrodynamics.pw.toml"
 hash = "9f81dcfe5e2a036d0e88b6b3461789ceb35c7b60a6a04332fb27c8f9a210e302"
 metafile = true
@@ -237,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "96c2b05ab4237657412c31ebb0af1e66fd5d9edeb21a6f098a095edb8bc9671b"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "252d4a98fef75cf20400d0f598d9c6c843adc7a350e83f5819cf0fecf75ee011"
 metafile = true
 
 [[files]]
@@ -315,8 +315,18 @@ hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
 metafile = true
 
 [[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "047e2ceb641f110f83d1b6d650195c0bad14921d318e83c269354b09d8b49409"
+metafile = true
+
+[[files]]
 file = "mods/realistic-explosion-physics.pw.toml"
 hash = "99603cc91997fbc4b3b8134d50f09f5bc1d92ee86a5308208a5cbb3943d85e2a"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "9dbb7d52e57ea1cfc3ea3f7aae98100bab103b5d0901c2cc3be61b19c279a406"
 metafile = true
 
 [[files]]
@@ -380,11 +390,6 @@ hash = "dbe41eeb7b1e3fcbc8632807808bffaacfedd35906e2f370485dcd991819dcb8"
 metafile = true
 
 [[files]]
-file = "mods/ultimate-car-mod.pw.toml"
-hash = "b4b6f97ff8be070b5c6e697690c69758785547345e92c6e0238a377974f85583"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "116a4b989d52e277313ddec28122afa4e9059e493517f74216aacbd16fa32944"
 metafile = true
@@ -420,8 +425,1148 @@ hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
 
 [[files]]
-file = "scripts/main.zs"
-hash = "7fd1da8f5e52da2e97385f907ebf58b2ab6479879dfc880c9b21c6f4e051b604"
+file = "resourcepacks/Default-Dark-Mode/.github/FUNDING.yml"
+hash = "75646fd4802252a851e59d38270543d2594db778f3bc3801f0387f60deb73115"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/.github/ISSUE_TEMPLATE/mod-support-request.yml"
+hash = "c63ede6e5d158ff51d0766a33e6f677efc97fd49909869c54aa0113a9f28c763"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/.github/workflows/optimize.yml"
+hash = "88cb5c85043fcb1b7ac208fa66044ca5d3fdc4265170657bd97ca558de3dceca"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/LICENSE.txt"
+hash = "9e502ba75fd0fd30cea5497b438a4bc12f07f02bc932a7a6041fd6a18b8f46a0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/README.md"
+hash = "70e900ac419c58ed30c91977b20657d699c0e0a1cd1db0c2d6353336027c168f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/cloth-config2/LICENSE.md"
+hash = "c084d3d0560c3731716fc2f2d7993647953810bba5d880e2aa2290d1c66d18d6"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/cloth-config2/README.md"
+hash = "c2fc9f5fd65cedf935a0cabbc985d6640dafe6bf0d1802728045bb2c1a2cc1c2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/cloth-config2/textures/gui/cloth_config.png"
+hash = "b05bef6798dcb0b2e7ac50250efe59798e20fd923de0144a835447100394b2b5"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/fabric/LICENSE"
+hash = "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/fabric/README.md"
+hash = "4b8967b01fd360f674e1f919efcc5156e887f429cec215813f27a2f6959b1e8d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/fabric/textures/gui/creative_buttons.png"
+hash = "9f2785835332cdfa1f276ab651f9628060ca05c82b6855d3ea02b010e99e292c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/LICENSE"
+hash = "3ff766f3ab1fd7dad26e8f176c5e4af6bcbf8bb1208d26f573d77b48b13188ac"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/README.md"
+hash = "ec811310fd6d7a5c3dcd5d5e2963c0a4c11d2a82c04f0313b8609060904e21f9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/de_de.json"
+hash = "f58c3f984abbcb112e17baabcb12cda0f8f3dfb2df7c7687d2bffd97b84c655f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/en_pt.json"
+hash = "8a5e050d944a50f0c98b7998dfaf016154ce5469f41b1114bbe1d5782f67f3b3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/en_us.json"
+hash = "a64b7ad1571cc358df37a99d9697a5c6f700f001a69466533761d503712e18e0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/es_ar.json"
+hash = "0f2085ec4bf6ea49c417ec555f61283af9a12921c218c9f8f64633d8b863b9d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/es_cl.json"
+hash = "0f2085ec4bf6ea49c417ec555f61283af9a12921c218c9f8f64633d8b863b9d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/es_ec.json"
+hash = "0f2085ec4bf6ea49c417ec555f61283af9a12921c218c9f8f64633d8b863b9d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/es_es.json"
+hash = "0f2085ec4bf6ea49c417ec555f61283af9a12921c218c9f8f64633d8b863b9d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/es_mx.json"
+hash = "0f2085ec4bf6ea49c417ec555f61283af9a12921c218c9f8f64633d8b863b9d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/es_uy.json"
+hash = "0f2085ec4bf6ea49c417ec555f61283af9a12921c218c9f8f64633d8b863b9d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/es_ve.json"
+hash = "0f2085ec4bf6ea49c417ec555f61283af9a12921c218c9f8f64633d8b863b9d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/fi_fi.json"
+hash = "90f620f737822491c4144b9037cf5246bba9f44569adbd4d0e9a55645da029d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/fr_fr.json"
+hash = "e279dabacffdc85c40362b31e6307c99b19a3c31dd53b006ec75c91c31976f96"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/id_id.json"
+hash = "d5d9d6b61faa052113b8c436e75bb7af9d8ac96921e3f3f678295e4a3020e751"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/it_it.json"
+hash = "380ee0f65360d624e06ff248b2793897b72a57849f3e2c70e1feb8d75e2b4c6f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/ja_jp.json"
+hash = "9e63d8d5865f207c08a32b0daece28e422af4a6ef599291ce7661b21fafe09e2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/ko_kr.json"
+hash = "fc4a2259d624e5565256546f7aae02b8a9b4992d42e4d7b39762c01f0c0fe00f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/pl_pl.json"
+hash = "6357d96708d0d676ebc438050af2c8fe7f69ad4cc14423f8a3964e6f764ea620"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/pt_br.json"
+hash = "6b54ef225ae730e157567319c23903b77a0694af1bf0aed834a8da2bfcafbbaa"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/pt_pt.json"
+hash = "0180f43ec7439014bcfd8771e9c6cc78521afac5a4becec5805d7ae5535c31da"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/ru_ru.json"
+hash = "959423478230d8e186943cecb9239b1dc09df960526b8f2a1dd1779b4b91843f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/tr_tr.json"
+hash = "88e66d9094bc69da51dc312e1e3ddeff9baebdfb1ebc9b0df1d6be4b6d4f4c8a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/zh_cn.json"
+hash = "3272f3d42fb6726fce68322bbe96704f8161cba78451df734a5f4bd03e674420"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/lang/zh_tw.json"
+hash = "f3988ca9f6819fe912d0895ea18fa9cfb80f9a29b96e032513c636aea8fc9d1f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/textures/gui/cooking_pot.png"
+hash = "ea01642da0789d0c581fd149e466692176428131c04e8e6e7d4eccf08153e5c9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/textures/gui/jei/cutting_board.png"
+hash = "76772639259c41a933e3451106b01fd0bdb232888f679512ef10840a0b123bf4"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/textures/gui/jei/decomposition.png"
+hash = "8017e16c49bb15df76fb8147a59fbaf528e2e6ed6a505d41d7602334a9388dee"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/farmersdelight/textures/item/empty_container_slot_bowl.png"
+hash = "b4f887b06873d27a8322a1f6e35fdf0971ecea144d68b15e48d1e0befa9130a2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/README.md"
+hash = "113d5bdf2a2ae1fe1abe7afcfc0c0c11a39286c5c4f63c6f1ebd940408b717c1"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/lang/en_ud.json"
+hash = "efb0bb9b661808b1af1430fc50013a4fdf6a4be970af03d69d5c00f78fafcc75"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/lang/en_us.json"
+hash = "d43c0b50029d28e5c2264616a9d7832d41f22ff20d70f45d45a8fda5b8eea290"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/lang/ko_kr.json"
+hash = "ee6cfe51411f8bad09f7e265eefbf55ef49c8b76a521f376dbd24edc4f6a3e6b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/lang/pl_pl.json"
+hash = "ee6cfe51411f8bad09f7e265eefbf55ef49c8b76a521f376dbd24edc4f6a3e6b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/lang/zh_cn.json"
+hash = "ee6cfe51411f8bad09f7e265eefbf55ef49c8b76a521f376dbd24edc4f6a3e6b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/lang/zh_tw.json"
+hash = "f52e55a24cd3a6c2b255e296133766796586adb7a258630551d725ae5c1a082a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/textures/gui/copper_container.png"
+hash = "5217767673919ba41ee582c12918750f1c3f7be877065ea3258694e404c186fa"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/textures/gui/diamond_container.png"
+hash = "3ed65689e23860eac34d05c623af03715ccc29610182c5e9dc893a1a624b7cad"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/textures/gui/dirt_container.png"
+hash = "a1968561266c7cfd9b6105c0c8369aa5b5bee560fe918fe9a73e5c1238c779b3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/textures/gui/gold_container.png"
+hash = "187e7e84402a7f11033be367c19c190092ea1d133f708bdd149c9ea064e6a238"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/textures/gui/iron_container.png"
+hash = "3b466df94b32c6617a7f2d44aec8f4688bf9ac939cc288bdd65448b2fc25d9f4"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/ironchest/textures/gui/silver_container.png"
+hash = "e46ad89506e6d7ec70ca365f5c29dfb1820f3fd49c0b01cb4e670920c75df986"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/LICENSE.txt"
+hash = "108c93a97f3011c196b8226f5019a9c09ade318fe3a802be2f7f5ddb2c3a0d04"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/README.md"
+hash = "349fb57ed9cee7eeefce685c3d9e5074206222e81921bd75dda10ecf66bbb2bf"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/ar_sa.json"
+hash = "60e0eac18052dd11bca0fc6b0d92a0f0e3f2a2e45a7f559c36189ba515266d41"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/bg_bg.json"
+hash = "65fe97ef3b0b1fef7fb66d689fb9b0f41667dc151745d5b4aa05f2e815b10c43"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/cs_cz.json"
+hash = "1240d34ca59fa26b0c056af671a87621ecd338958939a8d3e4815b9126f5eb5d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/de_de.json"
+hash = "e2625208826222bb7d0a0404384ad4e364748b1b194096e0648e9343e6f2e7f0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/el_gr.json"
+hash = "12e1b01a51c2aa80c84113f4ca052385a933f623973584d12cedb5908422bebe"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/en_au.json"
+hash = "93bed98843541c61a8d5fba69cac3accad3fac3ab0c89dfd3aa51fbf38eacdd2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/en_us.json"
+hash = "e091816fb9b3c46845c84a06b728fc38daa9de6cb3daebb60c6b523bef218a9b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/es_es.json"
+hash = "8fd95470c2ce23cf959de068b168428b52507eb41ebae438977efd0648700dd3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/fi_fi.json"
+hash = "e513fd833b5d884642531895270d559f805ac6343adc618961fc7c1b5c6014a3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/fr_fr.json"
+hash = "6efa161b515ac29a79c59ddca780877db5e3a7cb8e8cf37119b8f1edc5d25728"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/he_il.json"
+hash = "c7c5a9939e80621e854cc808e156b8647e2695f4bf98bd73067d9cb51909ff5c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/id_id.json"
+hash = "9fea2d54a39d7f2e12c530ca74bee361338913210440178ace5aac3e3ba2a472"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/it_it.json"
+hash = "501ea6a2fd5bff8d3bb284a4706103a629e25d2c9a3fb2ed435184b2b1690bb3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/ja_jp.json"
+hash = "db0b13f5268f0d2f58cc8cd56b5d9b27917627092480be8d3318ddf01871306f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/ko_kr.json"
+hash = "33c235100a70b70a244342dbbd773431660f7fd4a9faaa45740af1fe82195aa8"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/lt_lt.json"
+hash = "3e04e440e222c07cb29808f508a13cf7157f58649ae62dbb70e8f97f3a995391"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/nb_no.json"
+hash = "5f45b1c4b5a26449d4451b6c2c7143df785a4d214492e37bf7fe53ecff7db6d2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/pl_pl.json"
+hash = "762a38ff5f176d60b54c7252df053f4d02c414e081dd47ca50eb0242060501b6"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/pt_br.json"
+hash = "3332ede7114f52aae4e202eabef4ddb95b89a1c6db8b86fd52abd2795ae74aba"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/ru_ru.json"
+hash = "11c2d01635db85415a372f27cae46d6a07082a26b25846a2f45f9dd0b4e48b81"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/sv_se.json"
+hash = "21bf10397c08ee2a6878c5c11d48d2c8d0271a75d98fa1a8835220f8224131a9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/tr_tr.json"
+hash = "3f43d0b8a57988b4968a6fa5428b1701aa5f26880ef98281a591f41bd351e19e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/uk_ua.json"
+hash = "ab5b1aaf4bc462079276fab6eeae784707fee2f2ccd35648f8ee548f3c8d3fc1"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/zh_cn.json"
+hash = "c0e74a149d63ee48a85e89f73b0b4adf3f50ba595bc0da1d96959ef826dd7368"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/lang/zh_tw.json"
+hash = "7c74ee0f7d21e1d9747121c0c50fd1909cf5b794418c0f0d3a04a6eeaa28df7d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/button_disabled.png"
+hash = "706b64b4ea8e81d8662bbccc22f1831b88751d37443d8534f6bd0d12e206c6ec"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/button_enabled.png"
+hash = "457ce5dc6fbd7fb0030c0b97426a933779013cad750b9482ad85ccb3d8e12568"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/button_highlight.png"
+hash = "621b61979d44e89c242e1f3913d3049d24d5a77da9573c865973a0d609c2c1b8"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/catalyst_tab.png"
+hash = "1a1f9b3bf24aa113545db2f6d1acbd021a678452b7e681cb5c61586771b894f6"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/debug.png"
+hash = "7e544b721c17946c0b9b3179f8305924ee36b4618563c16c55db74a321ca3b5c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/gui_background.png"
+hash = "99d8f32450e78e6d0e0fd00d5de86e5eff4d67c41df6ac0504c48670dd8ed50d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/gui_vanilla.png"
+hash = "be3b69060d61a3d2b7edef594b6c176e534285400977875684994f4e3410155a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/icons/shapeless_icon.png"
+hash = "52465f29e251d4aad4bbf94833eeb4c4dde1df2c55723a929640b372443d69d9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/search_background.png"
+hash = "404c152e05d1813ae8f5a5d75b6dea0e047154b9f58921f70694051fd05e83db"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/single_recipe_background.png"
+hash = "55a13eb02ed743966c6853c63dd1058ec5145049f1c770d1282cb0b19ad4baf0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/slot.png"
+hash = "73c76f6862a54a2c6708b8709299ca7fc5c2f4c02a758fbd07b578e58eff33b7"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/tab_selected.png"
+hash = "ac6e4d4aa0ee5ec47c4bb652e4bbd67fd4ba63665e9d2c57512c42bb5619f682"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/jei/textures/gui/tab_unselected.png"
+hash = "1df9989a3a08bc803c44d6e17acd9fd64ff9487197ee7ed24d6e58907f0d0c40"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/af_za.json"
+hash = "4d13d20b7b461e238d9094c35ebf54b65ca2a522dda6769194eb608f4e2aabbc"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ar_sa.json"
+hash = "e5504c561ac2a05f422e7c2ec4fb6101d883f8b4afe889d71a89fef5b13b6f69"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ast_es.json"
+hash = "8c928fb17aa9f7c08bf2f6700c38a2665196075aa52bcb08fcf76e8c7ecae2b4"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/az_az.json"
+hash = "0374bdda73aa32e7126c5819d1aac7f711b57a233878af1e90a7c4bc29d8e462"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ba_ru.json"
+hash = "bc14cce3e213daadfe060b50812225c832f503e240e6f12c828b7652eef32adf"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/bar.json"
+hash = "efd9066680c385dd56d53725dc510e3fd2a6728bcc6afbc76b065d22a0898ae0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/be_by.json"
+hash = "a214693cb5609c9b4ec338e71902f16d14b1a3d4451e7c8110f69ee98f834514"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/bg_bg.json"
+hash = "07804e66077cb3fc95fcbdd56a20ba69ddbfee6a726b27425122602e77ddb5f6"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/br_fr.json"
+hash = "8f82d59a76898ed3e48531088cf4cf8c673439d7aaede917c0efa3c83dd0fde7"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/brb.json"
+hash = "734964c059670e7b5eb7d9779e66bc53cef019ce44c6b0a90e81d5489a07e8ce"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/bs_ba.json"
+hash = "20e150243426ae159a914f1db7a5b8a5b4fffda0d6772fcc2d3a0a92a74bfe73"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ca_es.json"
+hash = "63d3f8517f4b8b1ec378664dbe5ffac9548dc0971f68c230f358e71259ab8065"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/cs_cz.json"
+hash = "01f70d27cc260bac50e00b785f42e44397fbde9ef147b193100fff1e325fbb38"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/cy_gb.json"
+hash = "ff6d20354c0f0a1a193b4cf1b0e93d407a1c0bad3b815492adc7a367354e1f78"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/da_dk.json"
+hash = "408eb63bfc8b5a7871e7e82a04867d2152cbdb4f64dbfb28d6cb95c53cd4ef92"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/de_at.json"
+hash = "41f246bd26f17c5c150305454d726ac2d43acfb615db75db00ea2a2ea80db9eb"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/de_ch.json"
+hash = "6ec7958dd4cbb0d442532a0f50c208cdbfe1e212cb3ca574400c735fa8101beb"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/de_de.json"
+hash = "ca0381e6359dc49a652bbee8a8d09965281fbfe72b3c88e843399b26c4fb42f1"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/el_gr.json"
+hash = "fc9026eef64376876ab10f3a2471b38d84a55115f2ec5f484fd79627dad11815"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/en_au.json"
+hash = "d8bd4519119038ee99c0d4d401448448d3db4074b68f4c66642bd2da2eb87076"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/en_ca.json"
+hash = "d8bd4519119038ee99c0d4d401448448d3db4074b68f4c66642bd2da2eb87076"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/en_gb.json"
+hash = "6649f7b7adbf1cd93fde0aea7bada0e124fc75b8696fa8a70079458dbd0f57e8"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/en_nz.json"
+hash = "d8bd4519119038ee99c0d4d401448448d3db4074b68f4c66642bd2da2eb87076"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/en_pt.json"
+hash = "dd7b8c158e64d5b8878854251a655d1e8e83e4680929b588b16bccedc5cfba14"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/en_ud.json"
+hash = "3cbd293b7487ce967dece8a3c1b23a6220571cd8cd44e47086e1b554fd49c558"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/en_us.json"
+hash = "354dad773cb65c01da08ea920c11f59dc958ed8d5e1a1e9d2e3fef953fbefd52"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/enp.json"
+hash = "e04cf49935081561cef012a075303a94cbb855115ed8e4f57e4f076fe941b0ea"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/enws.json"
+hash = "f92c902d9cb930dda2ea9329b094b8a69acc51d7a6fe7bca756260fcb2e12b73"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/eo_uy.json"
+hash = "d02a287b89679622fa87c89af1ff006ba32d366af12eac4b274776a2dd8b3e5a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/es_ar.json"
+hash = "bc7d56a8c23251c3e99371b03b8866320c13f1953dae57ace05d687f2b3ba574"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/es_cl.json"
+hash = "ef7519586325e1ede1bc9a59c9bc9a3da09f697e2bc6f493bf954bd092f44cda"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/es_ec.json"
+hash = "ac74fa142d6dea884bafb11b196288aefac2874159b4848a7dfe9d89b4114548"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/es_es.json"
+hash = "b71d81ce9136a3776a3861a28facb72416463e8aa603ddb9e1e43b9fd54aac82"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/es_mx.json"
+hash = "94012dae46bc6c654158b3414e0e1ff125a367fe238c4082366ba295fbbb54d6"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/es_uy.json"
+hash = "c812737424c92dd13441f9cca4f3ae37865285ac64ba496a0b351b02de2d64fc"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/es_ve.json"
+hash = "2dde2cc84c301b57e2edb574699ac78e57fbef0154859c8cfb550d5790ca635a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/esan.json"
+hash = "80f6f13b68a87d7b063af063fd3a5b32b903082d479920092bbed01d04db80ac"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/et_ee.json"
+hash = "645dee4796bd95e80022084680fb76825b739086e260319041c48b7cc5d90ee9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/eu_es.json"
+hash = "38fc6fbd49aa713788cc25f777f396754630a6944b797ae9d743c96937aef955"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fa_ir.json"
+hash = "8bf0af2786368e3badb49abe89f3b1f636d4de139fb77befc3d0ec4f485a4d78"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fi_fi.json"
+hash = "10df789c133e66a69aa6b34fe22bf15a3bab3ef0a472b0d4999a9b2639ff0f32"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fil_ph.json"
+hash = "6e4b170a26f6d983142788a7a8ba3e2bffeaa0492791c4041f26c1a6066797b1"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fo_fo.json"
+hash = "53300da0c6a1ee3c7bcada6163db0242ab699bf16ad9d8df78b28cd7ffcf1250"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fr_ca.json"
+hash = "59fc669d9f2e0716b9636804b03e08865c8524c1ea1d4d3e3b0184714004c181"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fr_fr.json"
+hash = "79f6bd64c032b7afd425ce5dddd68112de8a84ac8293a42a31079cb9e4d5e039"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fra_de.json"
+hash = "d52884504c72b191eaf742508325a64a87002dce722fd27b84689b16e64488cd"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fur_it.json"
+hash = "883292a85225b117dd51bf00a11fb59e36348d2facb5ec367f2296375d473b24"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/fy_nl.json"
+hash = "ba8da13ddb22f88bc13ecc5955f54136c147083c97563e22a7b0e1c99f33d905"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ga_ie.json"
+hash = "b32e25c9dc2b2d81a38ead5b2cb3b3e94190c22d9d249122ac01c28dd88397a0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/gd_gb.json"
+hash = "e276ee281c67991bdcfc2527c841613e015a4b500ef7161533a2a1ced6849337"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/gl_es.json"
+hash = "4928075f3886b2d71ec1261feb77362a3f9e715c1c415a3f3127de79602842e8"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/haw_us.json"
+hash = "73614d9d029579f46d57933663fc352a9ebda448b7797314c1984d083cebc3ee"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/he_il.json"
+hash = "821df6dff8183085a5710659444244a79d4d1a78b7047b32ad0f87d6236ebfd0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/hi_in.json"
+hash = "f6fc084dbcb456150a1e2426145bc144bd9b39ceace3a43dc556e0404b8b779b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/hr_hr.json"
+hash = "cfd1d164e1f8b6c39f37d2a62bd21927cc1bb43d197753878bf2dcdb48fcd390"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/hu_hu.json"
+hash = "f102c95c270344e89c60611f4c19597eb610350c609bde159a319885ea161bfa"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/hy_am.json"
+hash = "bbc19803690a19927b4226a00548af1f4b9eaabc998ddcbcfb8c9cbcf7141754"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/id_id.json"
+hash = "04684848ef88d86ca47e1767af7459459e3b65c53628080a0f684ea9c498e18b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ig_ng.json"
+hash = "7b3a5fa28d10af2f1c8cbfe2758f479a62c6ef879f15f19a0b88d6b4fe172572"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/io_en.json"
+hash = "4c5c74c36b0e859e3debdee1b19cb4611e2d922f26da1fb4d2c82f6bada30732"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/is_is.json"
+hash = "d86cc0c9ebc887cbe70d1b1bb27ffdbee2ae3c2ff5e0856fee5120ec6ba0a3cf"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/isv.json"
+hash = "65d0da6eed1d370860c2cfcc5019645e5ca992cf4331461f2150414e562d944f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/it_it.json"
+hash = "8887842e4bdcb3aeb9cbf48f47fae35f9a7ee9ef35e3900d1f7203d185ba061d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ja_jp.json"
+hash = "f6c6016d5f0b232058d0a627a7b9d71196db319ca812296df02d4f5cee75babf"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/jbo_en.json"
+hash = "b923082532f2d3984e574d661f3a21ef1a4c19992ca2c4978e2529dd07fc7269"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ka_ge.json"
+hash = "24294fd3f16af7a582537699ec57e39ba9b182d25bc367dc3ff4fed3205fada0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/kk_kz.json"
+hash = "c6654f5f37d1b9c4ccbf00afe63b70eb4a9264e72f98d26f30d4a67130a4b867"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/kn_in.json"
+hash = "75e64a7f4d5df3c662870945b9f6a990e29253212bfbb04296c98fbebf0a889f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ko_kr.json"
+hash = "8daf42151029c34010cec82733a668c542ed76f2f4627f6d3a48e655b4bb1c17"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ksh.json"
+hash = "4c0a455c2a6c24910eae73034bc5ba00cec4a203e3b98d2a655430b7356c0539"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/kw_gb.json"
+hash = "9133cd747240535070611932b9140e36609dfb3eccfc114c41a078fc7946469a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/la_la.json"
+hash = "de3c9a34e716779cc919e55c1e5cb7901dc75e75bac27b242f918dbfd92435d7"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/lb_lu.json"
+hash = "004fc10620f837a66248e301b3995ee8571b1d17b6496cc03918aa3768c8269b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/li_li.json"
+hash = "46dc8a57584db914bcaed6f951fb130d4e47f604797ca01a669ad40aff217f25"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/lmo.json"
+hash = "f337da9e81717e4d3639d8eae2d218651ce77a5450c4996ef65480e19ce803b2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/lol_us.json"
+hash = "30eafb57d8d535221abd2718c0fa335515ac1cce628a6c68fdc1baef488d3550"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/lt_lt.json"
+hash = "4ff4ae4c512159a6609da36e63c294be27fb33b20e4294bf116e4210c7d9b06c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/lv_lv.json"
+hash = "58acd5632c9b316e090c1d2b2fffefe879ad19b74a617a824f752f410a413881"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/lzh.json"
+hash = "cef265e9440069fb6261b5987eadc4450a54d99b689861ca3bce106d77c11a9c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/mk_mk.json"
+hash = "454da1cefa34bfe74717d871daebc51e73165a8f2d89bcc102e31a5b68c16301"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/mn_mn.json"
+hash = "9910096dc913f03a51f1cc5ce240177c41ecea912c83468c41a93ced98639cfe"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ms_my.json"
+hash = "b5cd6b229bace053c7a277aacf175093540058def23a195adac9f45f3857ac8a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/mt_mt.json"
+hash = "e691cc5dc1d87a6c29b09cd0b263c232fae6c3d5a614274f1f164034b14028e9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/nds_de.json"
+hash = "c30846a8d94774cd02abfbab5363603d37de26d1e14c80f2901760510e786279"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/nl_be.json"
+hash = "07bc059a5376e4ac0bec6366159c709691252f2185d3fff4121460539e298e32"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/nl_nl.json"
+hash = "bac90c8dcadfbd752390b44b5430715c32300d6ebb89a48f70d274f46a81383e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/nn_no.json"
+hash = "c67f1c7a6d1d8bb31cf9994e61400ce7657407d3dc59556f4a21bc1ef076b159"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/no_no.json"
+hash = "28bc75e8c47f5b7b1461b0852a8e9bae6077ccdca2610358a747947eb1a2498d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/oc_fr.json"
+hash = "bdf30e403467319cd82335e935aa8b11581db5fb24dae2464dd8aa8d53bd0a85"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ovd.json"
+hash = "5539fad6e33a7f9ad928800f0e136b0ecadd88c86063110e6516b918ca0e9d51"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/pl_pl.json"
+hash = "1b399f5fcfd84fbcbc7521a05d3780674b8b38baaa639b1172d82804583d2682"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/pt_br.json"
+hash = "b647df7898b2a57e7993ff78c6ee963f0c8567b8cab98832ba783580e2cc439f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/pt_pt.json"
+hash = "c76d5ada5619412ab4d16a1025670790c62748df6cf2f27fecb1dda3f3e1bec0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/qya_aa.json"
+hash = "cf740b964b70a9fe4928567d1388fdb3ad1eddea3f78a38a7422f1009c523815"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ro_ro.json"
+hash = "46361775ab00dcce74fd21158d810c7887f9c7ff8533aef5706984374df27277"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/rpr.json"
+hash = "c093c669e4c942b000414d366fb0f4bb2415b7d359519cf4cc69670d42954f30"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ru_ru.json"
+hash = "b04360cc2df9b2f853992c4ace8b6bd5d0291c0573fdd218b9d2d845e78e4884"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/se_no.json"
+hash = "acd9d693ff75947bc40bf37c661895698b05e9eca8681925a36bbfb753b0761e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/sk_sk.json"
+hash = "d28d549a9a0bec4485edabc0fea3b38fe213bb1c13b3ab712badb8ff4a54c676"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/sl_si.json"
+hash = "b6633cb6c27cdf7c4055461df4a2c63ed3f2f834ad2b39ee0a32982843c0b9ff"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/so_so.json"
+hash = "89eb92a45d9e8b2dfefec414f3f9099cbfe726d10519ec81c135060581bc7b50"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/sq_al.json"
+hash = "07a528082eb93f699fc356519850782ea9c64436ff00a8c02d5466d877e40478"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/sr_sp.json"
+hash = "82d784fd7b6d69a435a8765d2a6c3f4f174d74c6d5b97612fb9929d328b76cf7"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/sv_se.json"
+hash = "c13802d392516fe698d459081df8478cc967598680ac4214b93731080b5bc50f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/sxu.json"
+hash = "e8c5c795b4afc0a356affa9ed9489cd114cb5ff32c21096ea4c8b9818b377e96"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/szl.json"
+hash = "fb09a0bc1397d1b343593c13f94fa74669c92bd3def1dd01bc3c2fdf24da4d95"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/ta_in.json"
+hash = "6657684a59173f7c123448d82d056bf6fc7d8322264cced9a177bdf434fcac80"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/th_th.json"
+hash = "38ef148ed2209f644cb47a6bd4ad94c349fd6ab6491aa523b63a6ecac0166b29"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/tl_ph.json"
+hash = "f015a718bf1adbce2c42f7e4e598a66550d0f224c468b975316f0b73a4680c93"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/tlh_aa.json"
+hash = "dcbecc2ccad137c7a011896cf559a362666cf950c826646e4ee01f6a12502c29"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/tok.json"
+hash = "503f9b09e451b341b6aa426d0f28fb28a7bdf96f040ee034c5a6f10ec8418cbb"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/tr_tr.json"
+hash = "8a4266f80f95e6537af6df165566fa56a73c585af59c28fead8574a4fc729e55"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/tt_ru.json"
+hash = "895c31b78e531f333ecc7ae0a132d1d2026c96d0adf1b797eabda82fbfff451a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/uk_ua.json"
+hash = "aba116ba7c41995d72e2bcdfb46cd06831cbd5c4a7cb87bd0be03ab2f82d817b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/val_es.json"
+hash = "ab502526ec1a66eb14b526dc5a949a1330b475399f087c1e527d78b7033445aa"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/vec_it.json"
+hash = "6c3925854b5a421052484732114eef07dc0023fecf012ee043d6f518b36beac4"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/vi_vn.json"
+hash = "53ad74e75a44f26df956887b330d0c8ab5fc07c84724ce85c41faef42a343e96"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/yi_de.json"
+hash = "bb5ce8928219dd776c00c8edbde083c861cd88d90fc25d8f1a1b9949048b3c64"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/yo_ng.json"
+hash = "19b30390545ce1051d581ce666e1cfe34f2dc4ce47643cd86ccad611a130c71a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/zh_cn.json"
+hash = "badbea73bedf83210b69d66e869fd9f2ef2a320db491c2c4bfd891afe650490a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/zh_hk.json"
+hash = "5a06d68ee212a7818917e157f75c3f56e1008e0c36b334439a2a2f06cfdc3702"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/zh_tw.json"
+hash = "c05035da03478f2f3e268c6e94036ba2de9eea8215e626b2373cd15871052b14"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/lang/zlm_arab.json"
+hash = "cdc6a1498e8f116354cdb029febce467fae485b60d47e005d62f4dafe8f334d1"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/optifine/color.properties"
+hash = "93bd0671bb267d1829a5df98eae2346fcff65a9fca2fb0030bcd4957fee3d2af"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/accessibility.png"
+hash = "a6d93d30927da7480801182be89f7c5866498383ee9d0e11f7cdd985996159b0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/advancements/tabs.png"
+hash = "36233614aac68c5185ddd522478ea297cf85ffaad4be5541222e3325383c4fa5"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/advancements/widgets.png"
+hash = "861dd495692017fca8f6066e3f068b79b9a8ec3b3bec5c71470a696acf1101aa"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/advancements/window.png"
+hash = "dc54da13952c013589255f014ee6e47b5264d1845a9e759ce71e8f81de507950"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/book.png"
+hash = "28d9d4b964c6caed90f0edc42ce1273efc8fb91f4fb9dfeffaf29e485474ab71"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/checkbox.png"
+hash = "9ea55ab5cb014b25a083706f610df3c1e5316034b844b920c1bfe77435b6c443"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/anvil.png"
+hash = "421159a09c15388564df18df9277451474168cd9b9585d2402ca69a75051d5bf"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/beacon.png"
+hash = "dffebc187be4f1230aab14e90e0539ccabd8760a1a7f845dddc12c6ebaf96d1c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/blast_furnace.png"
+hash = "fc969064bed788882fa18a69e68270808d2f08c48e805d9ff523eb781e38d0a3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "90d4bab9d8dd8dee9c4a16ae03b9c9fc6ae03b3ab5fbc040fc2154adaf9af29e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/bundle.png"
+hash = "bbec73fd960d396eb419e4109f2168c17d3c3bd9d116f43e9bd6ac38d8d64154"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/cartography_table.png"
+hash = "5512acb987313e0515bdc264cdd2ea07986e3fdfdd7371f638df3900aeca268d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "dca90b34b58a9c25529bdea2effefdb9fa266075ae4c7ed49fbd452b18535e01"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "520b8d4a17e5fcdb7d3d35dbfe56007b35451e2ef82ec17aa978b11c6d5100a2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "655b5fb6a168678ed125c79dfa7e71f07b21722be16900228ae9d1b32d22d01d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "12ccfe7da929c7f1b3873b937a033b594b0d0106a0b5d906554b6c4b48c1f44e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "7e45e3e60a971be16599386ce382d69da163169ee8e5ca12ee18def70c57451c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "da649424c4c6506b51457716cffdc785446893a2e3945b07b21ead8a89d4462f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "23e15cc60a36169e7eeb707c20fcb3f115d71a84d40a5f134e99c1250ab73aa3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/furnace.png"
+hash = "fc969064bed788882fa18a69e68270808d2f08c48e805d9ff523eb781e38d0a3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "9f585f28a553df38fbfc5fc78086f4d77932ab5446bc9d972026be33be34ec54"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "29065bf52b2065b38dd53ee202244067992bb2a5c6f965608fdb99f8d8e5caf0"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/grindstone.png"
+hash = "e19ee85302a86e0a8d23955f66578b60543b1db3f507d1ae25571bb4a4636af2"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/hopper.png"
+hash = "5f6dab436f7c78c7f2a17a6716dd4449feaf717f8b2789d8b29f621ff31f1fc7"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/horse.png"
+hash = "7b07a20d0f40893219afb48aea99835228b3a6983a71b2e4a8b364e90c558b59"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/inventory.png"
+hash = "df41bfdbc796256aa9b579bb59d5c74c078355dafe9353dc5a5602cb2b3def0f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/loom.png"
+hash = "fe00d9901189da560872d2d922da5a9335ffcfc23824395e1b7c72921df69515"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/shulker_box.png"
+hash = "484151078592a1aede03ab5b4c1c82fcde1697666d6fe2667de1b9f2651e26fb"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/smithing.png"
+hash = "f8076debb0a054c2ea78575e1ae202b884dfafb13ec1b156f65048b6ed7cd24e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/smoker.png"
+hash = "fc969064bed788882fa18a69e68270808d2f08c48e805d9ff523eb781e38d0a3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "beec4d4b40d77e2dadb825a0e2d890e81506136cf1811e6f1c0190baa02eae50"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/stonecutter.png"
+hash = "1e689fff8a106ad5d6bfc67d7e2e0d04a6007f4d39ce441ef618747d3aa3e1bf"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/container/villager2.png"
+hash = "64415642c466f625e21ca817a11a248930078002ba247a9e11a5165e66c79ec9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/demo_background.png"
+hash = "363c69578f2eb12ef7a879f9d887adbbc77f389881e68f1f656952cfc4d9f3b7"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/recipe_book.png"
+hash = "73c0c785565f4a20184999ec38021f6eb02d483fc929b0645f32d58451ae4e61"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/recipe_button.png"
+hash = "e3b79b7225495872eb9c12c9eb9082c941d3dcfcc4ca34d05c6c17553dd7572b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/report_button.png"
+hash = "2e4cd1c2723ad7fb93b1180303f2dc54237fb045aea89941cf39ef89bae9d4a7"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/resource_packs.png"
+hash = "2514ad4cc8b5e1856eb4023acb742a82db6c76626066ac621c8f3b9cb47828ef"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/server_selection.png"
+hash = "6e8a1db37614eddf2b4d4528e3d5fdb4bef949cb74c8a734b944385594023006"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/social_interactions.png"
+hash = "32cb73501abbca961ec28668a239dae1cfed05a9c32bc32dfe8ffc940336ed4a"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/spectator_widgets.png"
+hash = "ce914b25137cc9272f2adfb7110f374ec93df3498cdc7cbe171fe1798b002ed1"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/toasts.png"
+hash = "b149cbe3a86fac683da8465447f62fcb422cbe5ae68eab1e120b12728a4a86a5"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/widgets.png"
+hash = "461e28411dddad21da7d344d8ecd22bb400b53cef53ec194d9f90deb6eba847b"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/gui/world_selection.png"
+hash = "c9c98a87e0ef5b99548b355df67ce52eec4c77bee10edfbdca5556af4aa2a284"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/item/empty_armor_slot_boots.png"
+hash = "f5f585f7d6f1fdea418a238c85a43f8b01dfe45f2a3b25759da3e4139adceccb"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
+hash = "1810dbd0eb5c96d5a0edafeb4c31941fb1d32de794fb2963f98788acc8c62a66"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
+hash = "78af8d521ba5388bf38921797ddfce6c5e0a7f812f089af8b0475c675ebf7b1c"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
+hash = "38e3bb4aefc56dc7e439c6bd7c0a1efba1a7511a72f0ef5654a19f06e69c5216"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/minecraft/textures/item/empty_armor_slot_shield.png"
+hash = "7e4d60a89b41b4e46d04fa3a1aab79771808ccca17676ca3e55835ba48c8ea53"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/LICENSE.md"
+hash = "a4c2961aadbf1ab74febe2598815da5dc0687a987490d610ea3a2af0ecc3ebfa"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/README.md"
+hash = "24e4b5112f2a5977d67ee87ec5a667408c202003b3e35785a5134abb05a2d0ee"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/blank_back.png"
+hash = "c4f4d3175b47416a938705ae0515fa9daee6a0547a8aa233e04aedfda6f30374"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/more_slots.png"
+hash = "5798e437016e8cf63fdd7b884d0b67a2a761714492c82783c80c101aab9c7bf3"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/aglet.png"
+hash = "a7817602ab89007b4e86d706b13298b7c612cb9cff8099056339f9c827c6f591"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/back.png"
+hash = "5641bfc212510d1720517070c8f6cec3c4d74b5d6113db2d0f071105de3e9920"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/belt.png"
+hash = "5005cf2c9e93e46934649e1d890f8d3cd10d57d4f07f06f033b0f084f371731e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/cape.png"
+hash = "a891fbb0f56a6f202d59cb237abb700c3303238f4a5d6cbbef557adfabe71311"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/charm.png"
+hash = "a6307168fe5b10ae2a876e5415bd2ddacaed3acbc0bb5eaf3b0d8f82108ebca9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/empty.png"
+hash = "09085b88659d271fcd703989ba50a5d1abe52d2541ada3366846560645b44a9f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/face.png"
+hash = "91d738665b470ff339acc7bb927e7c27c9b84bd624c692884a80c4678173b9d5"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/glove.png"
+hash = "f738b3e70bd143d2800f91af1568a562c296414fce35e82da73a51293a8cb002"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/glove_mirrored.png"
+hash = "b475381c8bf8d2a49fe69cc8f8071c3d703889e72db55bb8af75658a554df19f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/hat.png"
+hash = "f513b529b3481d5adea18f414452e95bd02bc9b5a5cd85539b4a062bbfb6908d"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/necklace.png"
+hash = "0752e65fe00f6d29752efeed446a5cabf45b6d95f82e687b6c8ed124b30def2e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/ring.png"
+hash = "5c8fd7ccd835dacb5a1991f9ebc892bb0b8ac128bf977c2f91021217b9692ebf"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/assets/trinkets/textures/gui/slots/shoes.png"
+hash = "1f96007e81e73113971bd0a53420678adba9a6bb924c35071a2b7dc1dbaf56f8"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/pack.mcmeta"
+hash = "1fe65b6c55c62c878521413c7ac185ba279836e839fd9f7181e28cd601a16f2f"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode/pack.png"
+hash = "4833b4809af9a38ff46942b1117adc8ea265c9ae5677656ec89fce950d4e9bc4"
 
 [[files]]
 file = "server-icon.png"
