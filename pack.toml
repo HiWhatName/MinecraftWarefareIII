@@ -1,12 +1,12 @@
 name = "Minecraft Warfare III"
-author = "HiWhatName,RGB__Toaster,JusPLP,PennyManager?"
-version = "1.1.0"
-pack-format = "packwiz:1.1.0"
+author = "HiWhatName"
+version = "1.2.0"
+pack-format = "packwiz:1.2.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4b8609fbffc5f844d9f2e8edb00119d4ead0c89efd32760f57d336af79913e91"
+hash = "38fb7adf8b319551b1a05cfb5db7b18717b400d85872025f251ad678f071e3f7"
 
 [versions]
 forge = "43.2.0"

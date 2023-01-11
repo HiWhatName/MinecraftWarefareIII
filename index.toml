@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "6e1e82ccb321fc987875b7379b7b03d246832c41b6d5ed4a1753480dd9283934"
+hash = "043c1c03f5c16c4e085766aa801e9c8e3a59bedb61bfbc0aa403208c88c9801b"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-planes.pw.toml"
-hash = "091b069b4445086e380c8913b16f1296b66baa9da5c1796ac62e3a148644fe23"
+hash = "db5312fa20355144cac604e4af4f93c962f106025557c96049906e890a504d86"
 metafile = true
 
 [[files]]
