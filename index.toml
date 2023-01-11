@@ -360,11 +360,6 @@ hash = "4a6f978655c487b46a8d9fbebf6dca8d0eab2624ebc826ac7015968b21454670"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "23e1d5b76bff0992071479829e5e74f2a52c96555e4a6d33b7ba16e22aca1a7f"
-metafile = true
-
-[[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "ca83d6d210d1d289fc8999c481a778a3edcf4228c9de3d280cfd86012868e30f"
 metafile = true
