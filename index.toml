@@ -305,6 +305,11 @@ hash = "ef11b94131b44e9a3959e5aaf4e9dc08c8d8656b2de9fc6a3081234d2dbc6c7c"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "bc447d7a2814de49767f964f2fc07e8888cc22a38ea8d935a08f6cc2a4efdcf3"
+metafile = true
+
+[[files]]
 file = "mods/realistic-explosion-physics.pw.toml"
 hash = "99603cc91997fbc4b3b8134d50f09f5bc1d92ee86a5308208a5cbb3943d85e2a"
 metafile = true
