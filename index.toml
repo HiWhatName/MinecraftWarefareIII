@@ -123,6 +123,11 @@ hash = "8b2f7a5d01a0dd74bd5ee5f7b1b24da6f44ce5a27a7371abf86f8822185c3ff5"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "f094bca8f5d15e36dfc6d3e269d3524a6fea6fb67611d00605319c7eaaacf83e"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
 metafile = true
@@ -160,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e79c0c7ce7d67628a19b74480d9d3fe0dfd2bf1cbb5505d167f033815c3d84a7"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "589811220383729ea17edc4a87188130df3612be52e6abcf2deb466e5f548af0"
 metafile = true
 
 [[files]]
