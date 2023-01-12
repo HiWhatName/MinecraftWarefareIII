@@ -35,5 +35,6 @@ Same as above but creates a way larger file containing all the mods already pack
 ### Licensing
 While this project is provided under the AGPL-3.0 license, the following submodules have their own:
 - Default-Dark-Mode located at https://github.com/nebuIr/Default-Dark-Mode/releases/tag/v1.3.4
+- Super-Duper-Vanila located at https://github.com/Eldeston/Super-Duper-Vanilla/releases/tag/v1.3.0-beta.3
 
 (If you're wondering why there are so few commits, I lost 21 due to gitea not working and having to restore an backup -_-)

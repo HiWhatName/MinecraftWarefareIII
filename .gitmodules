@@ -2,3 +2,7 @@
 	path = resourcepacks/Default-Dark-Mode
     url = https://github.com/nebuIr/Default-Dark-Mode/
     branch = tags/v1.3.4
+[submodule "shaderpacks/Super-Duper-Vanilla"]
+	path = shaderpacks/Super-Duper-Vanilla
+    url = https://github.com/Eldeston/Super-Duper-Vanilla/
+    branch = tags/v1.3.0-beta.3
