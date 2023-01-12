@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".gitmodules"
-hash = "9ac644ad0320a809cb5f18d747288b56f270e44612d56e51cbe9d03e40d3a2f0"
+hash = "12b05a788c36ccaf10a8dae63e49f7f80f5f6515f5e04b7e440e0f020a9d660c"
 
 [[files]]
 file = "LICENSE"
@@ -95,6 +95,14 @@ hash = "df0f0e3fa4f96668059df0be8c733619e5a510aba640932fa98cb58bcfeb9d23"
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
 hash = "8df93f32e1e331a11a5119038d148ee4fd4e2b8bb748242815eb4203398fc2a1"
+
+[[files]]
+file = "config/trajanscore-config.toml"
+hash = "ce8dd77f69579548fce4bd7a94e8b7fae53674fd6a7159ea498aa2cdde8c5095"
+
+[[files]]
+file = "config/trajanstanks-config.toml"
+hash = "0587ca435dd46cb344c0a49a37d5a458c1092561633dd4d513d3af3ff4145952"
 
 [[files]]
 file = "icon.png"
@@ -2022,3 +2030,1035 @@ hash = "1fe65b6c55c62c878521413c7ac185ba279836e839fd9f7181e28cd601a16f2f"
 [[files]]
 file = "resourcepacks/Default-Dark-Mode/pack.png"
 hash = "4833b4809af9a38ff46942b1117adc8ea265c9ae5677656ec89fce950d4e9bc4"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/CONTRIBUTION.md"
+hash = "c45396fb1ca6b51775cca88ceba8c4e5896c166f38eb5a00a61931cebb4bc912"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/CONTRIBUTORS.md"
+hash = "dfc191129c8f6de643dd67d80decbbcd392d3d5307b08e09ae49c9c51e386519"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/LICENSE"
+hash = "8b1ba204bb69a0ade2bfcf65ef294a920f6bb361b317dba43c7ef29d96332b9b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/README.md"
+hash = "79b52150fbc482868640a0911b4688ba395656176d589ed2a1afd13e3669c480"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/block.properties"
+hash = "c2c2e9938eb24ee08bfa63b388c0662e781f609071192f60f0999db2333c35b9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite.fsh"
+hash = "0cb431a0e4207da62bd56374f873cdfb01db36312e427d600fde42f89dce675f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite.vsh"
+hash = "21a8f31c9cadcb581ba3ba3cb250a37d8f2147ee89be6602e7d2c6835febac21"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite1.fsh"
+hash = "87378baee85f66f51993cf2e1b3dc27932c23a8b77c3927090e9065dce167ae2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite1.vsh"
+hash = "dffb29ca9bced7b30decf22bdfb0d46fcbf22222fb66376adc09de35bb37ace1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite2.fsh"
+hash = "c6918bb7b1dbc944a36580716f832aa00306cce3cadf692faaa988fe190a657a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite2.vsh"
+hash = "c89907805195a15ae0efb4a744403ccb5e73955548ce920d524f4ad902e0ba1e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite3.fsh"
+hash = "febc1a0dcd95ce99ff012a8127807d64b97737c0124c6890e656913371eee2de"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite3.vsh"
+hash = "4357657384a9306a6d116f775fba7d0ad080fc6c2863285e940c846c39905161"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite4.fsh"
+hash = "a686fb38143e21f8dd45d922ef7d17011d75ef4b7f4cb923dadf9c6ab13b0fd9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite4.vsh"
+hash = "2cd499113b97d51508ab7bd89b262f042967cfb59af292cecf9341c863262f50"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite5.fsh"
+hash = "fb872c7e12ce83794c53ddee5c09240022f62a46ecbda724f30a85272ddf0f0c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite5.vsh"
+hash = "078c4d0182acafb065823462dff7af07f8e54036707050e8ba196a36e4be3294"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite6.fsh"
+hash = "e7cc813cd2c0ee670868ca8ba92110a0621c76bae3504cec3130d95ab8b571ae"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite6.vsh"
+hash = "9005632054a18e6c4e84fdba90e04ab5b478c4050be0f933062210c0d366aa70"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite7.fsh"
+hash = "e8c01d76d5e86d13ead052cc3eadc97c3d4f0df6ab2c8fd0d31da997a06fef24"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/composite7.vsh"
+hash = "20a28126d2d5f81339ace9ee42d635513ef67e9117e919686e251e4a74eb9bb6"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/deferred.fsh"
+hash = "6011fadc7e9aeb4dc940d9a83f0a8c07d59dcd667656ed3ee4920d5cd462ffb1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/deferred.vsh"
+hash = "a87f3d9c6c8e36a761c2c14b961b9c3880c5b8cd55cda3898057deb8cbd4a631"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/deferred1.fsh"
+hash = "98f7a3c1d7fb310fb379f16d0152228e706d1a48d933a62e6e537dcc279aecb7"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/deferred1.vsh"
+hash = "6412d8126b133a7c85f40c00df8f33a4f2c2b434832a936b78d3e91f8af36800"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/entity.properties"
+hash = "5e28e8ba66b3fcf18a544ee4f86750e2659fddfe10f36d31cf0e5b6ee92afdae"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/final.fsh"
+hash = "e3401356aaadc050337b560fe199ff2d4f946758f1e2ef378d9c2367e80b1699"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/final.vsh"
+hash = "03ed1d112dcac259c19ff9003ee16df4e0693051ba7e98b323c6a73cf95b55d3"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_armor_glint.fsh"
+hash = "f3f1778245dfd2332ee7d8f6ab342504cbd8216d8a74e086799d2c00171c9a8e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_armor_glint.vsh"
+hash = "bc8e7a73091166eb52910baffc882f592fee9277c59b23f088561d2c33159ff2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_basic.fsh"
+hash = "c3cd729cf31fd89a0783f37c034664a90fd6946d9e2179a5de0444f971544dd9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_basic.vsh"
+hash = "69e751cf7981e7575ebca0e3d4a8f6692c644fd567fb41b22d10973fd74c959c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_beaconbeam.fsh"
+hash = "20c08fe089bde0152f10f36085dfcb4c1ced7bb1ea7b24885f438ddc682b8ca8"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_beaconbeam.vsh"
+hash = "c2c0275c5c1f759a01d5d14ccbdf18d1453c85411c885a865ec5e84aa7e404b5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_block.fsh"
+hash = "260b95164bbbc2428b9e9a83bc8e5e09a80fca5a40a4f4106da3fab7dac1f4d0"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_block.vsh"
+hash = "1321f99af5fab3c97b649ad2a62fe8433c1ae0ba849680ce916c9a2b60a9a954"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_clouds.fsh"
+hash = "819c1cf43d7452da918fc79417dc7f597dc1f59e63185542debcd5c553e84ff5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_clouds.vsh"
+hash = "b975e331ad634782a3d1af995a5f675de19f65a7d57039185e862e1756cdd065"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_damagedblock.fsh"
+hash = "0d745fc9bc71574c68e1ac6b84869bede2c0133e6846a16746be6820d352b14c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_damagedblock.vsh"
+hash = "26d1230aa5839980e98ba5a9b7828608d03e2ea1e48c4f398382f91f9e5f58fd"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_entities.fsh"
+hash = "249ce195cd011d2dbf8f798730152967c90cfc22782119a50a5c88b9ed41d87e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_entities.vsh"
+hash = "7ed1edc208dbdd16e13e72d24c6d54a2d4867f16cbc83290ea229467c27f08d3"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_entities_glowing.fsh"
+hash = "cb5e31827e273bb97dfbc126c9e9417428cc7aff0c29a953cc8f8c5e9488716f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_entities_glowing.vsh"
+hash = "0e41678dd786341f7b85107351af8eca1f32f9adf05e579db2ed6919b0b6cdd4"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_hand.fsh"
+hash = "6bc20f5f57cc101a27c0a208cf9d44b8bbe5e9d8b520aa9907d2ee550f7fc38b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_hand.vsh"
+hash = "d8b0f270a51c25480249b3cce009e8edb8f1fda31b30902d5dff9002686a47ce"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_hand_water.fsh"
+hash = "7b26dbfd60a14967853faa6a60a36a00fb29a8a2ce95a48ca92c45bc7f93dc59"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_hand_water.vsh"
+hash = "cdb8e5e5c78ecb2e87215331fc672a8a48ba87ce2760f74f8517feaf561a094a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_line.fsh"
+hash = "875b4d3980c2ad2b6d652b1fa4c1a66eb427ec1695eee28ec36143362e462d19"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_line.vsh"
+hash = "db3ec3f291fe19c57e189c15086f2a6ab9c71e2289f7b3960a4d86704a768179"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_skybasic.fsh"
+hash = "9c1d4734a14ff0ae47ff9a2ef842b591ff4cbe362a95827af2c8e129826431f2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_skybasic.vsh"
+hash = "d1af00b9aeab2b5f66c76c7a0858b22e109ea638a0a9f9c33675423cbc581453"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_skytextured.fsh"
+hash = "bab22f204c6371d3b4b931fa57919753391c377512780eddb05441d85e2d3480"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_skytextured.vsh"
+hash = "edd13c2299d313b9943ee1f5e17e2ec58e34aab92f7f47de72951e4e660bfb4b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_spidereyes.fsh"
+hash = "ed3c6039cdb7116b38ff8f8dc65339553567e0ede50958d8a1381211a3c7f837"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_spidereyes.vsh"
+hash = "8731b7028816d0a68e4eb46e0387da2fdd112ae03aeb917c522184584940f700"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_terrain.fsh"
+hash = "c672b9727ece65bd569a2680d42cf4566bbc4458cc327655eb560ed24e52d6d2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_terrain.vsh"
+hash = "d420fe12938a94af141bcfb145802e3af36828676f7e20ab007190347fae7e2e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_textured.fsh"
+hash = "6a63d0a79ee77e5c11053a3003df0d2339eae19bb5d61a26bd8b8d4c663a06b9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_textured.vsh"
+hash = "680101291f78fce14371b38dd4e2f6ccd298b8f7e970868bd6326acb356fd2b1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_water.fsh"
+hash = "073421241d1e27a5ebdae2c168115793a40dcae122f15af7c62049dfeecc9ab5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_water.vsh"
+hash = "0eb5e57abc728189a74439ee0a391731d23368ca65281172d1d5f0178f45f102"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_weather.fsh"
+hash = "5f522207c087bf0a1d86785f564ad52a8136247ed46bb32ae4a49bdfa3dab18f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/gbuffers_weather.vsh"
+hash = "80f749f9bc3dde6f2fc566606fda449077a2d2e23cf262b4b1c8d54eea660cf0"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lang/en_US.lang"
+hash = "c2e204e1f8ac84c137f834c8ddb9e3d8ad2760a9d8aa08bb10ff24d77468a15a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/antialiasing/fxaa.glsl"
+hash = "37e119c14eebb4aeaf4c853875bd2192e96bfb7771782581023f79bab55bf613"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/antialiasing/taa.glsl"
+hash = "adf31a4d3cfaaa98ce1fa4ee779b9275d7c36423b081525ddf817a8603982aee"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/atmospherics/fog.glsl"
+hash = "ac032ed03dbcc5231d5f2413d77df93ad9dcef769a75c13337150d1a03a2a671"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/atmospherics/sky.glsl"
+hash = "5f00d408c7c63048f2635f2e8cfa6c862d869dfd9e5ff04a3f5eb3e1434c3646"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/GGX.glsl"
+hash = "0d45a9d5b07ec2c04d9b56685ecc1b84e26d2b0d6bc51bc0222dd3ae0d8c8622"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/PBR.glsl"
+hash = "3c57c25690c45290acd54c78ff583649758fa984276ab01a246732f66c103ea9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/SSAO.glsl"
+hash = "05a4b47cbcfc3f128600b926b59807c265c80e28fb843b850ccda76f0f52ea6d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/SSGI.glsl"
+hash = "443bef53c29f4e4f29f6c1c6d8789250dd82ec194ce17f65a2370076e44dad72"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/SSR.glsl"
+hash = "2cb78da2b365afa508770aefbc52e8f5cf8d0b37fb70f10bdb5f460d28845905"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/complexShadingDeferred.glsl"
+hash = "cd851af601efa09f7db5406af53f6973aeedcb72fab2fa4597b6fd3a25b11a87"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/complexShadingForward.glsl"
+hash = "1cb3a447b3f10a67d6d73f5d7cfc125a1b134708259bfafc35a89a9c41e18d37"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/shdDistort.glsl"
+hash = "440730752147b897a5ffb85b5626ca119b0a29679a30ff7e6ec9f9e2dcae65e8"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/shdMapping.glsl"
+hash = "4faf76f5b078d6997e26c73628de87b009e6ffdd9a8dc6ce7feb152b880d45c1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/lighting/simpleShadingForward.glsl"
+hash = "e06fead6b495d559883a62c5a91b7683c8582ca20aa3de6dd446a9fbd060262d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/post/lensFlare.glsl"
+hash = "90599e39a8756a1fb9659a492ff734feadaa33696564a5ed0f5c539c585f6eab"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/post/motionBlur.glsl"
+hash = "194b1ed91cc8f0a868c44a42cd0732e2c4adb3d004f1e10c49c12becf050e127"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/post/outline.glsl"
+hash = "b2a4b38c50c55f4e59ea5801920b8f689a45e4996f591058a4f28a433a7c8d4a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/post/tonemap.glsl"
+hash = "b7f305c597f7ab64d905c31e881f08cd8457b10609b035a4e1c63de6adfcfdfc"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/rayTracing/rayTracer.glsl"
+hash = "d63dd1b808f116a21d65b0d291818140fb512de47416f453b9687ac8d33378dc"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/rayTracing/volLight.glsl"
+hash = "25d1b28f301422452c70324b1ce1e8ae66be63d6bc27288a01e2c544ff6dcde6"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/settings.glsl"
+hash = "e3cce1bb0b81c01569cc2616015f0c5193aad95804880c44a5e1c712635be5ee"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/surface/lava.glsl"
+hash = "1d5318f320dfc34f0453abd7f095878027005697f17687e268be720f57289712"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/surface/water.glsl"
+hash = "f3d1523eba33507ea091b6aa6ec3662dd055e8f2ec3335ac7d9eb4e055774835"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/universalVars.glsl"
+hash = "3673dc7910473e9c2cdc7f136bdb28234d26878e28b2935f9ef8d2364b213e98"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/utility/convertPrevScreenSpace.glsl"
+hash = "d18179f09efd7e85db130efbe5aa4d7104e33cc0a2d54515c3ba8afe5ce1738c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/utility/convertScreenSpace.glsl"
+hash = "b685c846275d3a75cc08eb174364d5184563aad34f4737c1e799cf82a44bf6cb"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/utility/convertViewSpace.glsl"
+hash = "84a7c1844fa703a6f935a55942aff4d36182beeb1c39f1c091e0bb2064dd890e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/utility/noiseFunctions.glsl"
+hash = "f4bdbfe20f0dabee0881bf916bc0b3ad0fe220053047a36f6ab397556f2dc859"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/utility/taaJitter.glsl"
+hash = "afb0c2ddb006271b36262444574861fe6ca81b0296065487578c96fda3c14609"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/utility/util.glsl"
+hash = "afeae150070b96e7161d686a7305a78607622c38452fffa5614f8e8788b6fe71"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/lib/vertex/vertexAnimations.glsl"
+hash = "92c87d87980db6fb1aa0cbc7f1f385b79fbaa6576118d3fb7e19e3a61d0f610f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite.glsl"
+hash = "5e9b74cc0969fca2d6d027e2765d47cf32aa08c444fe9ee43689491e5decda4f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite1.glsl"
+hash = "e75379ca0104b3c1618f73937a2151fa18100b68fca23350023857fe15e62ebd"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite2.glsl"
+hash = "1e5e6d3b7510fbd2d36d61d6014c212bdcf920aad3ba269bfa73950e108842e9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite3.glsl"
+hash = "254c2de961cca3da746725ba4fda7b12ae3c0365060289273eed776968722318"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite4.glsl"
+hash = "d033d4d0f793b4f0c8e2ca288c38a9e15b789aa0668b9c15e2cecfe42258cb48"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite5.glsl"
+hash = "13bb1546ce4511671d88ba66c45cb18da832a950340d4032acc2ab19e73f939a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite6.glsl"
+hash = "6b9b473114a1626ac6558b07c7926f302cdf52dc3b96775a15fb811b8c48ee0d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/composite7.glsl"
+hash = "3c12da4e7dc0fe5ae417e3568c0126e5d223b824e9b6a4bd94dc369dcc130e06"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/deferred.glsl"
+hash = "f5f259211987b1d8cd26f8c190c28cbb313d26f750717ee34cc8cdaa214ff776"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/deferred1.glsl"
+hash = "12f92f86c1c492734f8decbe42d8473d67cdbeaa88d421e7efa1ae9da978160d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/final.glsl"
+hash = "a776c31990b06222b9783d79d9d88e4ed222bf17d673864b3adb449984a3119a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_armor_glint.glsl"
+hash = "0945133c6ac1737dc8336f86ef1cdafbf6c731d2a7f5c69e0b11de9c9ab7835b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_basic.glsl"
+hash = "c3c0c7cb4b2bae0a7ff6188b565a774011107bedd290989f87ef2b4bfc320c3f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_beaconbeam.glsl"
+hash = "0525fbdf4ea5f1ca0c2f1baa7280b9ea5df8f59bf4c69cecde274e21cb9ec7e2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_block.glsl"
+hash = "14075d41a5c71fb43730b8596cd633aad079e0a46a47a024481faa4d2de0ec54"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_clouds.glsl"
+hash = "656cf94cfe9a0ff0d45b9a6a019319c20f112e76157d211721a3fd3d266d9790"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_damagedblock.glsl"
+hash = "80a29da2fef9af922d9b94a206d5731785187e6437f5d53ccf52f1c9abd32374"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_entities.glsl"
+hash = "999f4fb39ca6e2cb0aa0c314d7f8a17e8db1fda092827886daea6ab2fe167d7c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_entities_glowing.glsl"
+hash = "719ecd651e199db77383b203ccff55fd88a1104939c0ebc86d879d11c599e3f6"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_hand.glsl"
+hash = "491de392fe2f501cec36f310cc6c737056602fe479ab669fa446499fc1dc3605"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_hand_water.glsl"
+hash = "d9c77e6fc199fc3967d3de348e1b1f3e7b1d83910972ad1b392161eb98c52958"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_line.glsl"
+hash = "16822462bc7db2dfcafdea4896a64b4140fb36db58d7c53c5d70528b3247faa8"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_skybasic.glsl"
+hash = "6be8155a76d644e434ebd7186496f73180df588bd0f2e896a5c4113dc4f09a51"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_skytextured.glsl"
+hash = "5bb299e209a9f772762be53debc900e30349684c210af9344d208786c59e9ee5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_spidereyes.glsl"
+hash = "51d2fad5114c4581c0b0660b51f25346ed450d62613e4e5a0acfed03dfef075e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_terrain.glsl"
+hash = "8d077ba3168853951e29148b40f99d05d5a0b07ae765b80ae4cf85224c917a28"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_textured.glsl"
+hash = "e34f73ea612d66e350f32c784d1ed29837b2f57f6a8ebcfeff7b8f0680ae40a8"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_water.glsl"
+hash = "6cb77fd97e7d415c8a99683beab4f5f6680d375e9f306d7be7614d6fbf8fe50b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/gbuffers_weather.glsl"
+hash = "047561db7d523e928ace2d4446e8f59204db513f47ab0bc65cc967bfd70d9d38"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/main/shadow.glsl"
+hash = "79677413bf108131d7d1948aae9b18b6e922e0b57275b647eb8bb4d745a7aac5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/notes.txt"
+hash = "ed560e05c0e03013a592fac1d717cd9e52c7e9aea755f64a6cce39d1093c4be8"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/shaders.properties"
+hash = "ca184e9ccf6988b18ebe3a6b225a0cd6b307d3ad8b752f5cdd85cea206b57a96"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/shadow.fsh"
+hash = "464aed065965121b6f24c2f416b6c3d1e70b7bbf4f4086b1f9eb4d9857ba8a40"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/shadow.vsh"
+hash = "695e47a923b690d290cdbb7fb2e3bfab26b95a11f1038a133b709bff8ff9988d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/textures/banner.png"
+hash = "ae76db985e0f8257ec8c582258f1d92b7f80e49c560d5194a48835b101235c68"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/textures/noise.png"
+hash = "faa74dd116bfe71384159a4dda1ddc30d0fed3191193a60b53126f259d19f8d1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/textures/noise.png.mcmeta"
+hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/textures/thumbCF.png"
+hash = "6a036e1f2891b225d3b0f45e3d825912f1b600d3063327e2ad1d53d1d813f8bf"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/textures/title.png"
+hash = "28820ed80608290df411b4e61a69de1c0ee65a4abc2a9d37b61ef686f3f9fe18"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite.fsh"
+hash = "0cb431a0e4207da62bd56374f873cdfb01db36312e427d600fde42f89dce675f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite.vsh"
+hash = "21a8f31c9cadcb581ba3ba3cb250a37d8f2147ee89be6602e7d2c6835febac21"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite1.fsh"
+hash = "87378baee85f66f51993cf2e1b3dc27932c23a8b77c3927090e9065dce167ae2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite1.vsh"
+hash = "dffb29ca9bced7b30decf22bdfb0d46fcbf22222fb66376adc09de35bb37ace1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite2.fsh"
+hash = "c6918bb7b1dbc944a36580716f832aa00306cce3cadf692faaa988fe190a657a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite2.vsh"
+hash = "c89907805195a15ae0efb4a744403ccb5e73955548ce920d524f4ad902e0ba1e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite3.fsh"
+hash = "febc1a0dcd95ce99ff012a8127807d64b97737c0124c6890e656913371eee2de"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite3.vsh"
+hash = "4357657384a9306a6d116f775fba7d0ad080fc6c2863285e940c846c39905161"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite4.fsh"
+hash = "a686fb38143e21f8dd45d922ef7d17011d75ef4b7f4cb923dadf9c6ab13b0fd9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite4.vsh"
+hash = "2cd499113b97d51508ab7bd89b262f042967cfb59af292cecf9341c863262f50"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite5.fsh"
+hash = "fb872c7e12ce83794c53ddee5c09240022f62a46ecbda724f30a85272ddf0f0c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite5.vsh"
+hash = "078c4d0182acafb065823462dff7af07f8e54036707050e8ba196a36e4be3294"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite6.fsh"
+hash = "e7cc813cd2c0ee670868ca8ba92110a0621c76bae3504cec3130d95ab8b571ae"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite6.vsh"
+hash = "9005632054a18e6c4e84fdba90e04ab5b478c4050be0f933062210c0d366aa70"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite7.fsh"
+hash = "e8c01d76d5e86d13ead052cc3eadc97c3d4f0df6ab2c8fd0d31da997a06fef24"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/composite7.vsh"
+hash = "20a28126d2d5f81339ace9ee42d635513ef67e9117e919686e251e4a74eb9bb6"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/deferred.fsh"
+hash = "6011fadc7e9aeb4dc940d9a83f0a8c07d59dcd667656ed3ee4920d5cd462ffb1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/deferred.vsh"
+hash = "a87f3d9c6c8e36a761c2c14b961b9c3880c5b8cd55cda3898057deb8cbd4a631"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/deferred1.fsh"
+hash = "98f7a3c1d7fb310fb379f16d0152228e706d1a48d933a62e6e537dcc279aecb7"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/deferred1.vsh"
+hash = "6412d8126b133a7c85f40c00df8f33a4f2c2b434832a936b78d3e91f8af36800"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/final.fsh"
+hash = "e3401356aaadc050337b560fe199ff2d4f946758f1e2ef378d9c2367e80b1699"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/final.vsh"
+hash = "03ed1d112dcac259c19ff9003ee16df4e0693051ba7e98b323c6a73cf95b55d3"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_armor_glint.fsh"
+hash = "f3f1778245dfd2332ee7d8f6ab342504cbd8216d8a74e086799d2c00171c9a8e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_armor_glint.vsh"
+hash = "bc8e7a73091166eb52910baffc882f592fee9277c59b23f088561d2c33159ff2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_basic.fsh"
+hash = "c3cd729cf31fd89a0783f37c034664a90fd6946d9e2179a5de0444f971544dd9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_basic.vsh"
+hash = "69e751cf7981e7575ebca0e3d4a8f6692c644fd567fb41b22d10973fd74c959c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_beaconbeam.fsh"
+hash = "20c08fe089bde0152f10f36085dfcb4c1ced7bb1ea7b24885f438ddc682b8ca8"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_beaconbeam.vsh"
+hash = "c2c0275c5c1f759a01d5d14ccbdf18d1453c85411c885a865ec5e84aa7e404b5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_block.fsh"
+hash = "260b95164bbbc2428b9e9a83bc8e5e09a80fca5a40a4f4106da3fab7dac1f4d0"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_block.vsh"
+hash = "1321f99af5fab3c97b649ad2a62fe8433c1ae0ba849680ce916c9a2b60a9a954"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_clouds.fsh"
+hash = "819c1cf43d7452da918fc79417dc7f597dc1f59e63185542debcd5c553e84ff5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_clouds.vsh"
+hash = "b975e331ad634782a3d1af995a5f675de19f65a7d57039185e862e1756cdd065"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_damagedblock.fsh"
+hash = "0d745fc9bc71574c68e1ac6b84869bede2c0133e6846a16746be6820d352b14c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_damagedblock.vsh"
+hash = "26d1230aa5839980e98ba5a9b7828608d03e2ea1e48c4f398382f91f9e5f58fd"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_entities.fsh"
+hash = "249ce195cd011d2dbf8f798730152967c90cfc22782119a50a5c88b9ed41d87e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_entities.vsh"
+hash = "7ed1edc208dbdd16e13e72d24c6d54a2d4867f16cbc83290ea229467c27f08d3"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_entities_glowing.fsh"
+hash = "cb5e31827e273bb97dfbc126c9e9417428cc7aff0c29a953cc8f8c5e9488716f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_entities_glowing.vsh"
+hash = "0e41678dd786341f7b85107351af8eca1f32f9adf05e579db2ed6919b0b6cdd4"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_hand.fsh"
+hash = "6bc20f5f57cc101a27c0a208cf9d44b8bbe5e9d8b520aa9907d2ee550f7fc38b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_hand.vsh"
+hash = "d8b0f270a51c25480249b3cce009e8edb8f1fda31b30902d5dff9002686a47ce"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_hand_water.fsh"
+hash = "7b26dbfd60a14967853faa6a60a36a00fb29a8a2ce95a48ca92c45bc7f93dc59"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_hand_water.vsh"
+hash = "cdb8e5e5c78ecb2e87215331fc672a8a48ba87ce2760f74f8517feaf561a094a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_line.fsh"
+hash = "875b4d3980c2ad2b6d652b1fa4c1a66eb427ec1695eee28ec36143362e462d19"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_line.vsh"
+hash = "db3ec3f291fe19c57e189c15086f2a6ab9c71e2289f7b3960a4d86704a768179"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_skybasic.fsh"
+hash = "9c1d4734a14ff0ae47ff9a2ef842b591ff4cbe362a95827af2c8e129826431f2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_skybasic.vsh"
+hash = "d1af00b9aeab2b5f66c76c7a0858b22e109ea638a0a9f9c33675423cbc581453"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_skytextured.fsh"
+hash = "bab22f204c6371d3b4b931fa57919753391c377512780eddb05441d85e2d3480"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_skytextured.vsh"
+hash = "edd13c2299d313b9943ee1f5e17e2ec58e34aab92f7f47de72951e4e660bfb4b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_spidereyes.fsh"
+hash = "ed3c6039cdb7116b38ff8f8dc65339553567e0ede50958d8a1381211a3c7f837"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_spidereyes.vsh"
+hash = "8731b7028816d0a68e4eb46e0387da2fdd112ae03aeb917c522184584940f700"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_terrain.fsh"
+hash = "c672b9727ece65bd569a2680d42cf4566bbc4458cc327655eb560ed24e52d6d2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_terrain.vsh"
+hash = "d420fe12938a94af141bcfb145802e3af36828676f7e20ab007190347fae7e2e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_textured.fsh"
+hash = "6a63d0a79ee77e5c11053a3003df0d2339eae19bb5d61a26bd8b8d4c663a06b9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_textured.vsh"
+hash = "680101291f78fce14371b38dd4e2f6ccd298b8f7e970868bd6326acb356fd2b1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_water.fsh"
+hash = "073421241d1e27a5ebdae2c168115793a40dcae122f15af7c62049dfeecc9ab5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_water.vsh"
+hash = "0eb5e57abc728189a74439ee0a391731d23368ca65281172d1d5f0178f45f102"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_weather.fsh"
+hash = "5f522207c087bf0a1d86785f564ad52a8136247ed46bb32ae4a49bdfa3dab18f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/gbuffers_weather.vsh"
+hash = "80f749f9bc3dde6f2fc566606fda449077a2d2e23cf262b4b1c8d54eea660cf0"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/shadow.fsh"
+hash = "464aed065965121b6f24c2f416b6c3d1e70b7bbf4f4086b1f9eb4d9857ba8a40"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/shadow.vsh"
+hash = "695e47a923b690d290cdbb7fb2e3bfab26b95a11f1038a133b709bff8ff9988d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world-1/world.glsl"
+hash = "1092fb6561631db5bd1cd7c91015e6fe6ff7cf2b473518b3fd64d967d318c35e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world.glsl"
+hash = "2abd0383e7382b3e79fb14e391dc42a0676779c28cf6877455acf91d7122a05d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite.fsh"
+hash = "0cb431a0e4207da62bd56374f873cdfb01db36312e427d600fde42f89dce675f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite.vsh"
+hash = "21a8f31c9cadcb581ba3ba3cb250a37d8f2147ee89be6602e7d2c6835febac21"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite1.fsh"
+hash = "87378baee85f66f51993cf2e1b3dc27932c23a8b77c3927090e9065dce167ae2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite1.vsh"
+hash = "dffb29ca9bced7b30decf22bdfb0d46fcbf22222fb66376adc09de35bb37ace1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite2.fsh"
+hash = "c6918bb7b1dbc944a36580716f832aa00306cce3cadf692faaa988fe190a657a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite2.vsh"
+hash = "c89907805195a15ae0efb4a744403ccb5e73955548ce920d524f4ad902e0ba1e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite3.fsh"
+hash = "febc1a0dcd95ce99ff012a8127807d64b97737c0124c6890e656913371eee2de"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite3.vsh"
+hash = "4357657384a9306a6d116f775fba7d0ad080fc6c2863285e940c846c39905161"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite4.fsh"
+hash = "a686fb38143e21f8dd45d922ef7d17011d75ef4b7f4cb923dadf9c6ab13b0fd9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite4.vsh"
+hash = "2cd499113b97d51508ab7bd89b262f042967cfb59af292cecf9341c863262f50"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite5.fsh"
+hash = "fb872c7e12ce83794c53ddee5c09240022f62a46ecbda724f30a85272ddf0f0c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite5.vsh"
+hash = "078c4d0182acafb065823462dff7af07f8e54036707050e8ba196a36e4be3294"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite6.fsh"
+hash = "e7cc813cd2c0ee670868ca8ba92110a0621c76bae3504cec3130d95ab8b571ae"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite6.vsh"
+hash = "9005632054a18e6c4e84fdba90e04ab5b478c4050be0f933062210c0d366aa70"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite7.fsh"
+hash = "e8c01d76d5e86d13ead052cc3eadc97c3d4f0df6ab2c8fd0d31da997a06fef24"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/composite7.vsh"
+hash = "20a28126d2d5f81339ace9ee42d635513ef67e9117e919686e251e4a74eb9bb6"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/deferred.fsh"
+hash = "6011fadc7e9aeb4dc940d9a83f0a8c07d59dcd667656ed3ee4920d5cd462ffb1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/deferred.vsh"
+hash = "a87f3d9c6c8e36a761c2c14b961b9c3880c5b8cd55cda3898057deb8cbd4a631"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/deferred1.fsh"
+hash = "98f7a3c1d7fb310fb379f16d0152228e706d1a48d933a62e6e537dcc279aecb7"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/deferred1.vsh"
+hash = "6412d8126b133a7c85f40c00df8f33a4f2c2b434832a936b78d3e91f8af36800"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/final.fsh"
+hash = "e3401356aaadc050337b560fe199ff2d4f946758f1e2ef378d9c2367e80b1699"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/final.vsh"
+hash = "03ed1d112dcac259c19ff9003ee16df4e0693051ba7e98b323c6a73cf95b55d3"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_armor_glint.fsh"
+hash = "f3f1778245dfd2332ee7d8f6ab342504cbd8216d8a74e086799d2c00171c9a8e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_armor_glint.vsh"
+hash = "bc8e7a73091166eb52910baffc882f592fee9277c59b23f088561d2c33159ff2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_basic.fsh"
+hash = "c3cd729cf31fd89a0783f37c034664a90fd6946d9e2179a5de0444f971544dd9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_basic.vsh"
+hash = "69e751cf7981e7575ebca0e3d4a8f6692c644fd567fb41b22d10973fd74c959c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_beaconbeam.fsh"
+hash = "20c08fe089bde0152f10f36085dfcb4c1ced7bb1ea7b24885f438ddc682b8ca8"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_beaconbeam.vsh"
+hash = "c2c0275c5c1f759a01d5d14ccbdf18d1453c85411c885a865ec5e84aa7e404b5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_block.fsh"
+hash = "260b95164bbbc2428b9e9a83bc8e5e09a80fca5a40a4f4106da3fab7dac1f4d0"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_block.vsh"
+hash = "1321f99af5fab3c97b649ad2a62fe8433c1ae0ba849680ce916c9a2b60a9a954"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_clouds.fsh"
+hash = "819c1cf43d7452da918fc79417dc7f597dc1f59e63185542debcd5c553e84ff5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_clouds.vsh"
+hash = "b975e331ad634782a3d1af995a5f675de19f65a7d57039185e862e1756cdd065"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_damagedblock.fsh"
+hash = "0d745fc9bc71574c68e1ac6b84869bede2c0133e6846a16746be6820d352b14c"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_damagedblock.vsh"
+hash = "26d1230aa5839980e98ba5a9b7828608d03e2ea1e48c4f398382f91f9e5f58fd"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_entities.fsh"
+hash = "249ce195cd011d2dbf8f798730152967c90cfc22782119a50a5c88b9ed41d87e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_entities.vsh"
+hash = "7ed1edc208dbdd16e13e72d24c6d54a2d4867f16cbc83290ea229467c27f08d3"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_entities_glowing.fsh"
+hash = "cb5e31827e273bb97dfbc126c9e9417428cc7aff0c29a953cc8f8c5e9488716f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_entities_glowing.vsh"
+hash = "0e41678dd786341f7b85107351af8eca1f32f9adf05e579db2ed6919b0b6cdd4"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_hand.fsh"
+hash = "6bc20f5f57cc101a27c0a208cf9d44b8bbe5e9d8b520aa9907d2ee550f7fc38b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_hand.vsh"
+hash = "d8b0f270a51c25480249b3cce009e8edb8f1fda31b30902d5dff9002686a47ce"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_hand_water.fsh"
+hash = "7b26dbfd60a14967853faa6a60a36a00fb29a8a2ce95a48ca92c45bc7f93dc59"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_hand_water.vsh"
+hash = "cdb8e5e5c78ecb2e87215331fc672a8a48ba87ce2760f74f8517feaf561a094a"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_line.fsh"
+hash = "875b4d3980c2ad2b6d652b1fa4c1a66eb427ec1695eee28ec36143362e462d19"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_line.vsh"
+hash = "db3ec3f291fe19c57e189c15086f2a6ab9c71e2289f7b3960a4d86704a768179"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_skybasic.fsh"
+hash = "9c1d4734a14ff0ae47ff9a2ef842b591ff4cbe362a95827af2c8e129826431f2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_skybasic.vsh"
+hash = "d1af00b9aeab2b5f66c76c7a0858b22e109ea638a0a9f9c33675423cbc581453"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_skytextured.fsh"
+hash = "bab22f204c6371d3b4b931fa57919753391c377512780eddb05441d85e2d3480"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_skytextured.vsh"
+hash = "edd13c2299d313b9943ee1f5e17e2ec58e34aab92f7f47de72951e4e660bfb4b"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_spidereyes.fsh"
+hash = "ed3c6039cdb7116b38ff8f8dc65339553567e0ede50958d8a1381211a3c7f837"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_spidereyes.vsh"
+hash = "8731b7028816d0a68e4eb46e0387da2fdd112ae03aeb917c522184584940f700"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_terrain.fsh"
+hash = "c672b9727ece65bd569a2680d42cf4566bbc4458cc327655eb560ed24e52d6d2"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_terrain.vsh"
+hash = "d420fe12938a94af141bcfb145802e3af36828676f7e20ab007190347fae7e2e"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_textured.fsh"
+hash = "6a63d0a79ee77e5c11053a3003df0d2339eae19bb5d61a26bd8b8d4c663a06b9"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_textured.vsh"
+hash = "680101291f78fce14371b38dd4e2f6ccd298b8f7e970868bd6326acb356fd2b1"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_water.fsh"
+hash = "073421241d1e27a5ebdae2c168115793a40dcae122f15af7c62049dfeecc9ab5"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_water.vsh"
+hash = "0eb5e57abc728189a74439ee0a391731d23368ca65281172d1d5f0178f45f102"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_weather.fsh"
+hash = "5f522207c087bf0a1d86785f564ad52a8136247ed46bb32ae4a49bdfa3dab18f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/gbuffers_weather.vsh"
+hash = "80f749f9bc3dde6f2fc566606fda449077a2d2e23cf262b4b1c8d54eea660cf0"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/shadow.fsh"
+hash = "464aed065965121b6f24c2f416b6c3d1e70b7bbf4f4086b1f9eb4d9857ba8a40"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/shadow.vsh"
+hash = "695e47a923b690d290cdbb7fb2e3bfab26b95a11f1038a133b709bff8ff9988d"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla/shaders/world1/world.glsl"
+hash = "c0788099b635f07f425a366487cae9910f699b5b00787d7255e70febfdf064f1"
