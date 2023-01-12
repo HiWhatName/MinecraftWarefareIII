@@ -31,7 +31,9 @@ Same as above but creates a way larger file containing all the mods already pack
 
 #### Custom server mods:
 - You may add DeathBan next to Limited lives for a short ban on death.
-(If you're wondering why there are so few commits, I lost 21 due to gitea not working and having to restore an backup -_-)
 
 ### Licensing
 While this project is provided under the AGPL-3.0 license, the following submodules have their own:
+- Default-Dark-Mode located at https://github.com/nebuIr/Default-Dark-Mode/releases/tag/v1.3.4
+
+(If you're wondering why there are so few commits, I lost 21 due to gitea not working and having to restore an backup -_-)
