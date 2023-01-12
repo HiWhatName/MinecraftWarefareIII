@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".gitmodules"
-hash = "e31ab27673966d091160466688afd983b66b4c04b06e79217bdae2f04b88674f"
+hash = "9ac644ad0320a809cb5f18d747288b56f270e44612d56e51cbe9d03e40d3a2f0"
 
 [[files]]
 file = "LICENSE"
@@ -15,6 +15,18 @@ hash = "b9a2540cedc00e61cf17a6be96922371b9be67e034c7c716b102e642247b98c7"
 [[files]]
 file = "config/deathban.toml"
 hash = "32dd8633fc9397f4d0c2b16710ba11ba649b4f860b687ebc89d859766efc44e6"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "d1ef91f8114e62d87018cadadb2a67037e184c5e660c2dfbb90432a23f31d44a"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "3e16c3d0f285f4bf98580e122a2ebb950de1e09ead9d2b865b537195ada237f9"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "fb57dd0dcff434f101942e4e173ca9eacd2d90f7cbc8d65ace6162abb36fefde"
 
 [[files]]
 file = "config/limitedlives-common.toml"
@@ -83,10 +95,6 @@ hash = "df0f0e3fa4f96668059df0be8c733619e5a510aba640932fa98cb58bcfeb9d23"
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
 hash = "8df93f32e1e331a11a5119038d148ee4fd4e2b8bb748242815eb4203398fc2a1"
-
-[[files]]
-file = "config/simple-rpc/simple-rpc.toml"
-hash = "37a38e48dfc424419f541617a4de105c1c182a106953532b8cc5d3317576d98e"
 
 [[files]]
 file = "icon.png"
