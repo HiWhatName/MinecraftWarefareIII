@@ -50,7 +50,7 @@ hash = "df28ef6a69036c03a3ac5d372f14c99527e669fdfc1d92ed07e22ca033dab420"
 
 [[files]]
 file = "config/lostcities/profiles/mwiii.json"
-hash = "aef36135ec910762b9a31cab0fd98494e35f0f942963f1708404c4eb2e0c19dd"
+hash = "28482a59d9acb0ba33d13c53d713e088080fac869937d5114d64ae990142d1e6"
 
 [[files]]
 file = "config/lostcities/profiles/nodamage.json"
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "043c1c03f5c16c4e085766aa801e9c8e3a59bedb61bfbc0aa403208c88c9801b"
+hash = "6e1e82ccb321fc987875b7379b7b03d246832c41b6d5ed4a1753480dd9283934"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-planes.pw.toml"
-hash = "db5312fa20355144cac604e4af4f93c962f106025557c96049906e890a504d86"
+hash = "632d2f6f10798fa9685fea495869aea247fb0ffa121c8553a9cb4ecf4b245c48"
 metafile = true
 
 [[files]]
