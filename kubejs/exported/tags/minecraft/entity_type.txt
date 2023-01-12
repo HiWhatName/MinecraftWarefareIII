@@ -1,0 +1,379 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 12, 2023, 3:31:31 PM
+
+#alexsmobs:tiger_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:mimic_octopus_fears
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:dolphin (from alexsmobs-1.21.1.jar)
+- alexsmobs:orca (from alexsmobs-1.21.1.jar)
+- alexsmobs:hammerhead_shark (from alexsmobs-1.21.1.jar)
+- alexsmobs:mantis_shrimp (from alexsmobs-1.21.1.jar)
+- alexsmobs:cachalot_whale (from alexsmobs-1.21.1.jar)
+- alexsmobs:frilled_shark (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:scatters_crows
+- #alexsmobs:neutral_land_animals (from alexsmobs-1.21.1.jar)
+
+#carryon:stacking_blacklist
+
+#alexsmobs:fly_annoy_targets
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- minecraft:player (from alexsmobs-1.21.1.jar)
+
+#forge:endermen
+- minecraft:enderman (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_enderman (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:crocodile_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:anaconda_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:crocodile (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:terrapin (from alexsmobs-1.21.1.jar)
+- minecraft:dolphin (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:devils_hole_pupfish (from alexsmobs-1.21.1.jar)
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit (from Default)
+- minecraft:endermite (from Default)
+- minecraft:silverfish (from Default)
+- minecraft:fox (from Default)
+- mekanism:robit (from Mekanism-1.19.2-10.3.5.473.jar)
+- alexsmobs:sunbird (from alexsmobs-1.21.1.jar)
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:mimicube (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:seal (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:tasmanian_devil (from alexsmobs-1.21.1.jar)
+- alexsmobs:bald_eagle (from alexsmobs-1.21.1.jar)
+- alexsmobs:tiger (from alexsmobs-1.21.1.jar)
+- alexsmobs:maned_wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- alexsmobs:bison (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:void_portal_ignores
+- alexsmobs:void_portal (from alexsmobs-1.21.1.jar)
+- minecraft:end_crystal (from alexsmobs-1.21.1.jar)
+- minecraft:ender_dragon (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_fishtank
+- alexsmobs:lobster (from alexsmobs-1.21.1.jar)
+- alexsmobs:devils_hole_pupfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:mudskipper (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:passive_land_animals
+- minecraft:cat (from alexsmobs-1.21.1.jar)
+- minecraft:chicken (from alexsmobs-1.21.1.jar)
+- minecraft:cow (from alexsmobs-1.21.1.jar)
+- minecraft:donkey (from alexsmobs-1.21.1.jar)
+- minecraft:fox (from alexsmobs-1.21.1.jar)
+- minecraft:horse (from alexsmobs-1.21.1.jar)
+- minecraft:llama (from alexsmobs-1.21.1.jar)
+- minecraft:mule (from alexsmobs-1.21.1.jar)
+- minecraft:mooshroom (from alexsmobs-1.21.1.jar)
+- minecraft:ocelot (from alexsmobs-1.21.1.jar)
+- minecraft:panda (from alexsmobs-1.21.1.jar)
+- minecraft:parrot (from alexsmobs-1.21.1.jar)
+- minecraft:pig (from alexsmobs-1.21.1.jar)
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+- minecraft:sheep (from alexsmobs-1.21.1.jar)
+- minecraft:strider (from alexsmobs-1.21.1.jar)
+- minecraft:trader_llama (from alexsmobs-1.21.1.jar)
+- minecraft:wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:emu (from alexsmobs-1.21.1.jar)
+- alexsmobs:gazelle (from alexsmobs-1.21.1.jar)
+- alexsmobs:mungus (from alexsmobs-1.21.1.jar)
+- alexsmobs:platypus (from alexsmobs-1.21.1.jar)
+- alexsmobs:roadrunner (from alexsmobs-1.21.1.jar)
+- alexsmobs:seal (from alexsmobs-1.21.1.jar)
+- alexsmobs:shoebill (from alexsmobs-1.21.1.jar)
+- alexsmobs:tasmanian_devil (from alexsmobs-1.21.1.jar)
+- minecraft:goat (from alexsmobs-1.21.1.jar)
+- alexsmobs:toucan (from alexsmobs-1.21.1.jar)
+- alexsmobs:maned_wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- minecraft:frog (from alexsmobs-1.21.1.jar)
+- alexsmobs:blue_jay (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:villagers
+- minecraft:villager (from alexsmobs-1.21.1.jar)
+- minecraft:wandering_trader (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:ignores_kimono
+- minecraft:wither (from alexsmobs-1.21.1.jar)
+- alexsmobs:murmur (from alexsmobs-1.21.1.jar)
+- alexsmobs:murmur_head (from alexsmobs-1.21.1.jar)
+
+#per-viam-invenire:replace_vanilla_navigator
+- mekanism:robit (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_creeper (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_enderman (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_skeleton (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_stray (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_wither_skeleton (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#minecraft:impact_projectiles
+- #minecraft:arrows (from Default)
+- minecraft:snowball (from Default)
+- minecraft:fireball (from Default)
+- minecraft:small_fireball (from Default)
+- minecraft:egg (from Default)
+- minecraft:trident (from Default)
+- minecraft:dragon_fireball (from Default)
+- minecraft:wither_skull (from Default)
+- mekanism:flame (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:beehive_inhabitors
+- minecraft:bee (from Default)
+
+#forge:creepers
+- minecraft:creeper (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_creeper (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#minecraft:skeletons
+- minecraft:skeleton (from Default)
+- minecraft:stray (from Default)
+- minecraft:wither_skeleton (from Default)
+- mekanismadditions:baby_skeleton (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_stray (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:baby_wither_skeleton (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:monkey_target_with_dart
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+
+#forge:bosses
+- minecraft:ender_dragon (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wither (from forge-1.19.2-43.2.3-universal.jar)
+
+#alexsmobs:bunfungus_ignore_aoe_attacks
+- #alexsmobs:bunfungus_ignores (from alexsmobs-1.21.1.jar)
+- minecraft:creeper (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:snow_leopard_targets
+- minecraft:cow (from alexsmobs-1.21.1.jar)
+- minecraft:chicken (from alexsmobs-1.21.1.jar)
+- minecraft:donkey (from alexsmobs-1.21.1.jar)
+- minecraft:horse (from alexsmobs-1.21.1.jar)
+- minecraft:llama (from alexsmobs-1.21.1.jar)
+- minecraft:mule (from alexsmobs-1.21.1.jar)
+- minecraft:parrot (from alexsmobs-1.21.1.jar)
+- minecraft:pig (from alexsmobs-1.21.1.jar)
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+- minecraft:sheep (from alexsmobs-1.21.1.jar)
+- minecraft:goat (from alexsmobs-1.21.1.jar)
+- minecraft:trader_llama (from alexsmobs-1.21.1.jar)
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned (from Default)
+- minecraft:guardian (from Default)
+- minecraft:elder_guardian (from Default)
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray (from Default)
+- minecraft:polar_bear (from Default)
+- minecraft:snow_golem (from Default)
+- minecraft:wither (from Default)
+- mekanism:robit (from Mekanism-1.19.2-10.3.5.473.jar)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:froststalker (from alexsmobs-1.21.1.jar)
+- alexsmobs:tusklin (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:bison (from alexsmobs-1.21.1.jar)
+- mekanismadditions:baby_stray (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:orca_targets
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:seal (from alexsmobs-1.21.1.jar)
+- minecraft:polar_bear (from alexsmobs-1.21.1.jar)
+- minecraft:turtle (from alexsmobs-1.21.1.jar)
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:guardian (from alexsmobs-1.21.1.jar)
+- minecraft:elder_guardian (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:fly_hurt_targets
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:husk (from alexsmobs-1.21.1.jar)
+- minecraft:zombie_villager (from alexsmobs-1.21.1.jar)
+- minecraft:zombie (from alexsmobs-1.21.1.jar)
+
+#carryon:stacking_whitelist
+
+#alexsmobs:sunbird_scorch_targets
+- #minecraft:skeletons (from alexsmobs-1.21.1.jar)
+- minecraft:zombie (from alexsmobs-1.21.1.jar)
+- minecraft:husk (from alexsmobs-1.21.1.jar)
+- minecraft:drowned (from alexsmobs-1.21.1.jar)
+- minecraft:phantom (from alexsmobs-1.21.1.jar)
+- minecraft:wither (from alexsmobs-1.21.1.jar)
+- minecraft:warden (from alexsmobs-1.21.1.jar)
+- alexsmobs:soul_vulture (from alexsmobs-1.21.1.jar)
+- alexsmobs:skelewag (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:crimson_mosquito_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:neutral_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+
+#minecraft:frog_food
+- minecraft:slime (from Default)
+- minecraft:magma_cube (from Default)
+- alexsmobs:fly (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:skunk_fears
+- minecraft:player (from alexsmobs-1.21.1.jar)
+- alexsmobs:grizzly_bear (from alexsmobs-1.21.1.jar)
+- minecraft:polar_bear (from alexsmobs-1.21.1.jar)
+
+#minecraft:raiders
+- minecraft:evoker (from Default)
+- minecraft:pillager (from Default)
+- minecraft:ravager (from Default)
+- minecraft:vindicator (from Default)
+- minecraft:illusioner (from Default)
+- minecraft:witch (from Default)
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cod (from Default)
+- minecraft:squid (from Default)
+- minecraft:glow_squid (from Default)
+- minecraft:tadpole (from Default)
+
+#carryon:entity_whitelist
+
+#alexsmobs:giant_squid_targets
+- alexsmobs:blobfish (from alexsmobs-1.21.1.jar)
+- minecraft:cod (from alexsmobs-1.21.1.jar)
+- minecraft:salmon (from alexsmobs-1.21.1.jar)
+- minecraft:tropical_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:devils_hole_pupfish (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:neutral_land_animals
+- minecraft:polar_bear (from alexsmobs-1.21.1.jar)
+- alexsmobs:bald_eagle (from alexsmobs-1.21.1.jar)
+- alexsmobs:elephant (from alexsmobs-1.21.1.jar)
+- alexsmobs:endergrade (from alexsmobs-1.21.1.jar)
+- alexsmobs:grizzly_bear (from alexsmobs-1.21.1.jar)
+- alexsmobs:gorilla (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:moose (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:rattlesnake (from alexsmobs-1.21.1.jar)
+- alexsmobs:snow_leopard (from alexsmobs-1.21.1.jar)
+- alexsmobs:tiger (from alexsmobs-1.21.1.jar)
+- alexsmobs:anteater (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:mantis_shrimp_targets
+- alexsmobs:mimic_octopus (from alexsmobs-1.21.1.jar)
+- alexsmobs:lobster (from alexsmobs-1.21.1.jar)
+- minecraft:shulker (from alexsmobs-1.21.1.jar)
+- minecraft:squid (from alexsmobs-1.21.1.jar)
+- minecraft:guardian (from alexsmobs-1.21.1.jar)
+- minecraft:elder_guardian (from alexsmobs-1.21.1.jar)
+- minecraft:tropical_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:cachalot_whale_targets
+- alexsmobs:mimic_octopus (from alexsmobs-1.21.1.jar)
+- alexsmobs:giant_squid (from alexsmobs-1.21.1.jar)
+- minecraft:squid (from alexsmobs-1.21.1.jar)
+- minecraft:glow_squid (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_cage_3
+- alexsmobs:seagull (from alexsmobs-1.21.1.jar)
+- alexsmobs:toucan (from alexsmobs-1.21.1.jar)
+- alexsmobs:crow (from alexsmobs-1.21.1.jar)
+- alexsmobs:potoo (from alexsmobs-1.21.1.jar)
+- alexsmobs:sugar_glider (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_cage_2
+- alexsmobs:froststalker (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:warped_toad_targets
+- minecraft:silverfish (from alexsmobs-1.21.1.jar)
+- minecraft:spider (from alexsmobs-1.21.1.jar)
+- minecraft:cave_spider (from alexsmobs-1.21.1.jar)
+- alexsmobs:crimson_mosquito (from alexsmobs-1.21.1.jar)
+- alexsmobs:fly (from alexsmobs-1.21.1.jar)
+- alexsmobs:cockroach (from alexsmobs-1.21.1.jar)
+- alexsmobs:warped_mosco (from alexsmobs-1.21.1.jar)
+- alexsmobs:leafcutter_ant (from alexsmobs-1.21.1.jar)
+- alexsmobs:tarantula_hawk (from alexsmobs-1.21.1.jar)
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider (from Default)
+- minecraft:blaze (from Default)
+- minecraft:magma_cube (from Default)
+
+#carryon:entity_blacklist
+
+#alexsmobs:bunfungus_ignores
+- creeperoverhaul:mushroom_creeper? (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_cage_1
+- alexsmobs:capuchin_monkey (from alexsmobs-1.21.1.jar)
+- alexsmobs:flutter (from alexsmobs-1.21.1.jar)
+- alexsmobs:maned_wolf (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- alexsmobs:sugar_glider (from alexsmobs-1.21.1.jar)
+
+#domesticationinnovation:petstore_cage_0
+- minecraft:wolf (from alexsmobs-1.21.1.jar)
+- minecraft:cat (from alexsmobs-1.21.1.jar)
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:froststalker_targets
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- minecraft:goat (from alexsmobs-1.21.1.jar)
+- alexsmobs:tusklin (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:komodo_dragon_targets
+- #alexsmobs:passive_land_animals (from alexsmobs-1.21.1.jar)
+- #alexsmobs:villagers (from alexsmobs-1.21.1.jar)
+- alexsmobs:kangaroo (from alexsmobs-1.21.1.jar)
+- alexsmobs:gelada_monkey (from alexsmobs-1.21.1.jar)
+
+#alexsmobs:bald_eagle_targets
+- minecraft:rabbit (from alexsmobs-1.21.1.jar)
+- minecraft:salmon (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon (from alexsmobs-1.21.1.jar)
+- alexsmobs:jerboa (from alexsmobs-1.21.1.jar)
+- alexsmobs:catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)

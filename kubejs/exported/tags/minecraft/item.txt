@@ -1,0 +1,4110 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 12, 2023, 3:31:31 PM
+
+#forge:cobblestone/mossy
+- minecraft:mossy_cobblestone (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/shovels/lapis_lazuli
+- mekanismtools:lapis_lazuli_shovel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:nuggets
+- #forge:nuggets/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:nuggets/iron (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:nuggets/gold (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass/tinted
+- minecraft:tinted_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanismadditions:plastic_blocks/transparent
+- mekanismadditions:black_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:gears
+- #forge:gears/bronze (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:gears/copper (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:gears/iron (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:gears/steel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:gears/tin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:armors/leggings/steel
+- mekanismtools:steel_leggings (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/gray
+- minecraft:gray_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:alloys/basic
+- minecraft:redstone (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:alloys
+- #forge:alloys/advanced (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:alloys/elite (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:alloys/ultimate (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/refined_obsidian
+- mekanism:ingot_refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/shovels/bronze
+- mekanismtools:bronze_shovel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:raw_materials/lepidolite
+- electrodynamics:raworelepidolite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:clumps/tin
+- mekanism:clump_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:rods/blaze
+- minecraft:blaze_rod (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:crystals/lead
+- mekanism:crystal_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:underminer_ores
+- #forge:ores (from alexsmobs-1.21.1.jar)
+
+#forge:circuits/elite
+- mekanism:elite_control_circuit (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:circuitelite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:armors/helmets/refined_obsidian
+- mekanismtools:refined_obsidian_helmet (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/silver
+- electrodynamics:ingotsilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:wool/black
+- minecraft:black_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/sand
+- securitycraft:reinforced_red_sand (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_sand (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#alexsmobs:insect_items
+- alexsmobs:maggot (from alexsmobs-1.21.1.jar)
+- alexsmobs:mosquito_larva (from alexsmobs-1.21.1.jar)
+- alexsmobs:leafcutter_ant_pupa (from alexsmobs-1.21.1.jar)
+
+#forge:tools/pickaxes/steel
+- mekanismtools:steel_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanism:colorable/terracotta
+- minecraft:terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:white_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_terracotta (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/titanium
+- electrodynamics:orerutile (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorerutile (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:nuggets/bronze
+- mekanism:nugget_bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+- #securitycraft:reinforced/wool_carpets (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#balm:diamonds
+- #forge:gems/diamonds? (from balm-4.5.3.jar)
+- minecraft:diamond (from balm-4.5.3.jar)
+
+#forge:glass/pink
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:chests
+- #forge:chests/ender (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:chests/trapped (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:chests/wooden (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ores/redstone
+- #minecraft:redstone_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/uranium
+- mekanism:block_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:stairs/plastic/glow
+- mekanismadditions:black_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_glow_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:circuits
+- #forge:circuits/basic (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:circuits/advanced (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:circuits/elite (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:circuits/ultimate (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:armors/boots/bronze
+- mekanismtools:bronze_boots (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:glass/red
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ices/packed
+- minecraft:packed_ice (from Powah-4.0.6.jar)
+
+#forge:dusts/lapis
+- mekanism:dust_lapis_lazuli (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#balm:yellow_dyes
+- #forge:dyes/yellow? (from balm-4.5.3.jar)
+- minecraft:yellow_dye (from balm-4.5.3.jar)
+
+#forge:dusts/endereye
+- electrodynamics:dustendereye (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ender_pearls
+- minecraft:ender_pearl (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/uranium
+- mekanism:dust_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/swords/refined_glowstone
+- mekanismtools:refined_glowstone_sword (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanism:shards/gold
+- mekanism:shard_gold (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:cobblestone/deepslate
+- minecraft:cobbled_deepslate (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:pellets/msrsalthg
+- nuclearscience:flinak (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:chests/trapped
+- minecraft:trapped_chest (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:fence_gates
+- #forge:fence_gates/wooden (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:fence_gates/plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#balm:cyan_dyes
+- #forge:dyes/cyan? (from balm-4.5.3.jar)
+- minecraft:cyan_dye (from balm-4.5.3.jar)
+
+#forge:cells/antimattersmall
+- nuclearscience:cellantimattersmall (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:ingots/vanadium
+- electrodynamics:ingotvanadium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:nuggets/titaniumcarbide
+- electrodynamics:nuggettitaniumcarbide (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ingots
+- #forge:ingots/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ingots/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ingots/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ingots/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ingots/bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ingots/refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ingots/refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ingots/steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- powah:steel_energized (from Powah-4.0.6.jar)
+- #forge:ingots/aluminum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/bronze (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/chromium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/copper (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/hslasteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/lead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/lithium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/molybdenum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/silver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/stainlesssteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/steel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/superconductive (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/tin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/titanium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/titaniumcarbide (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/vanadium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/vanadiumsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ingots/brick (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ingots/copper (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ingots/gold (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ingots/iron (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ingots/netherite (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ingots/nether_brick (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ices
+- #forge:ices/ice (from Powah-4.0.6.jar)
+- #forge:ices/packed (from Powah-4.0.6.jar)
+- #forge:ices/blue (from Powah-4.0.6.jar)
+- #forge:ices/dry (from Powah-4.0.6.jar)
+
+#forge:ices/dry
+- powah:dry_ice (from Powah-4.0.6.jar)
+
+#forge:crops/nether_wart
+- minecraft:nether_wart (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:sandstone
+- minecraft:sandstone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:cut_sandstone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:chiseled_sandstone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:smooth_sandstone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:red_sandstone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:cut_red_sandstone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:chiseled_red_sandstone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:smooth_red_sandstone (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/copper
+- minecraft:copper_block (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- minecraft:copper_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#forge:armors/leggings/osmium
+- mekanismtools:osmium_leggings (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+
+#forge:ingots/osmium
+- mekanism:ingot_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:enriched/diamond
+- mekanism:enriched_diamond (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:armors/chestplates/steel
+- mekanismtools:steel_chestplate (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:raw_materials/uraninite
+- powah:uraninite_raw (from Powah-4.0.6.jar)
+
+#securitycraft:reinforced/crimson_stems
+- securitycraft:reinforced_crimson_stem (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crimson_hyphae (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_crimson_stem (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_crimson_hyphae (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#alexsmobs:crow_foodstuffs
+- minecraft:egg (from alexsmobs-1.21.1.jar)
+- minecraft:turtle_egg (from alexsmobs-1.21.1.jar)
+- alexsmobs:crocodile_egg (from alexsmobs-1.21.1.jar)
+- alexsmobs:terrapin_egg (from alexsmobs-1.21.1.jar)
+- minecraft:sugar (from alexsmobs-1.21.1.jar)
+- #forge:seeds (from alexsmobs-1.21.1.jar)
+
+#forge:dusts/lithium
+- mekanism:dust_lithium (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustlithium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:clumps/gold
+- mekanism:clump_gold (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/hoes/refined_obsidian
+- mekanismtools:refined_obsidian_hoe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanism:alloys/atomic
+- #forge:alloys/ultimate (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:rods/plastic
+- mekanism:hdpe_stick (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:cobblestone/infested
+- minecraft:infested_cobblestone (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/pickaxes/osmium
+- mekanismtools:osmium_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:rods/hslasteel
+- electrodynamics:rodhslasteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:plates/lithium
+- electrodynamics:platelithium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#alexsmobs:blue_jay_foodstuffs
+- minecraft:glow_berries (from alexsmobs-1.21.1.jar)
+- #alexsmobs:insect_items (from alexsmobs-1.21.1.jar)
+- #forge:seeds (from alexsmobs-1.21.1.jar)
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#forge:armors/helmets
+- #forge:armors/armors/hazmat (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:leather_helmet (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:turtle_helmet (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:chainmail_helmet (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_helmet (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_helmet (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_helmet (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_helmet (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:armors/helmets/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/helmets/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/helmets/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/helmets/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/helmets/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/helmets/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:ores/diamond
+- #minecraft:diamond_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ores/lead
+- mekanism:lead_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_lead_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:orelead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorelead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+
+#forge:tools/paxels/iron
+- mekanismtools:iron_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanismadditions:plastic_blocks/road
+- mekanismadditions:black_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/uranium
+- mekanism:ingot_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/lithium
+- electrodynamics:orelepidolite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorelepidolite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ore_rates/dense
+- mekanism:fluorite_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_fluorite_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:copper_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dyes/orange
+- minecraft:orange_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:oxide/trisulfur
+- electrodynamics:oxidetrisulfur (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dusts/bronze
+- mekanism:dust_bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustbronze (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:clumps/uranium
+- mekanism:clump_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:seal_foodstuffs
+- #minecraft:fishes (from alexsmobs-1.21.1.jar)
+- alexsmobs:lobster_tail (from alexsmobs-1.21.1.jar)
+- alexsmobs:cooked_lobster_tail (from alexsmobs-1.21.1.jar)
+
+#forge:tools/paxels/bronze
+- mekanismtools:bronze_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:armors/boots/hazmat
+- mekanism:hazmat_boots (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/tin
+- mekanism:tin_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_tin_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:oretin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoretin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:glass/white
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:alloys/infused
+- #forge:alloys/advanced (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+- #securitycraft:secret_signs (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:enriched/carbon
+- mekanism:enriched_carbon (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/vanadiumsteel
+- electrodynamics:resourceblockvanadiumsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+- alexsmobs:blobfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:flying_fish (from alexsmobs-1.21.1.jar)
+- alexsmobs:raw_catfish (from alexsmobs-1.21.1.jar)
+- alexsmobs:cooked_catfish (from alexsmobs-1.21.1.jar)
+
+#mekanismadditions:balloons
+- mekanismadditions:black_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_balloon (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/osmium
+- mekanism:block_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:dusts/wood
+- mekanism:sawdust (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/axes/lapis_lazuli
+- mekanismtools:lapis_lazuli_axe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#balm:white_dyes
+- #forge:dyes/white? (from balm-4.5.3.jar)
+- minecraft:white_dye (from balm-4.5.3.jar)
+
+#forge:tools/axes/osmium
+- mekanismtools:osmium_axe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:tools/shovels/refined_obsidian
+- mekanismtools:refined_obsidian_shovel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:pellets/plutonium
+- mekanism:pellet_plutonium (from Mekanism-1.19.2-10.3.5.473.jar)
+- nuclearscience:plutonium239 (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:tools/shields
+- minecraft:shield (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/shields/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shields/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shields/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shields/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shields/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shields/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:cobblestone/normal
+- minecraft:cobblestone (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:nuggets/superconductive
+- electrodynamics:nuggetsuperconductive (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:wool
+- #forge:wool/white (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/orange (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/magenta (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/light_blue (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/yellow (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/lime (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/pink (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/gray (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/light_gray (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/cyan (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/purple (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/blue (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/brown (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/green (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/red (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+- #forge:wool/black (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#mekanism:dirty_dusts/uranium
+- mekanism:dirty_dust_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/chromium
+- electrodynamics:ingotchromium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:sand/colorless
+- minecraft:sand (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/warped_stems
+- securitycraft:reinforced_warped_stem (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_warped_hyphae (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_warped_stem (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_warped_hyphae (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:raw_materials/chromium
+- electrodynamics:raworechromium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#forge:raw_materials/iron
+- minecraft:raw_iron (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/boots/refined_glowstone
+- mekanismtools:refined_glowstone_boots (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:armors/boots/refined_obsidian
+- mekanismtools:refined_obsidian_boots (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:fuels
+- #forge:fuels/bio (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/pickaxes/refined_obsidian
+- mekanismtools:refined_obsidian_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#balm:gems
+- #forge:gems? (from balm-4.5.3.jar)
+
+#forge:rods/stainlesssteel
+- electrodynamics:rodstainlesssteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:pellets/msrsaltlg
+- nuclearscience:lifthf4uf4 (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:nuggets/stainlesssteel
+- electrodynamics:nuggetstainlesssteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:storage_blocks/charcoal
+- mekanism:block_charcoal (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:armors
+- #forge:armors/helmets (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:armors/chestplates (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:armors/leggings (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:armors/boots (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:raw_materials/uranium
+- mekanism:raw_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:raworeuranium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#securitycraft:reinforced/wooden_slabs
+- securitycraft:reinforced_oak_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_spruce_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_birch_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_jungle_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_acacia_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_oak_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mangrove_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crimson_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_warped_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:gems/diamond
+- minecraft:diamond (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:configurators
+- #forge:wrenches (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:tools/wrench (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+
+#forge:armors/chestplates/refined_glowstone
+- mekanismtools:refined_glowstone_chestplate (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:fence_gates/plastic
+- mekanismadditions:black_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_fence_gate (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#balm:green_dyes
+- #forge:dyes/green? (from balm-4.5.3.jar)
+- minecraft:green_dye (from balm-4.5.3.jar)
+
+#forge:glass/green
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/chestplates/lapis_lazuli
+- mekanismtools:lapis_lazuli_chestplate (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/lead
+- mekanism:block_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:resourceblocklead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#balm:gray_dyes
+- #forge:dyes/gray? (from balm-4.5.3.jar)
+- minecraft:gray_dye (from balm-4.5.3.jar)
+
+#mekanism:clumps/iron
+- mekanism:clump_iron (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:raw_materials/titanium
+- electrodynamics:raworetitanium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:pellets/uranium235
+- nuclearscience:uranium235 (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+
+#forge:armors/helmets/refined_glowstone
+- mekanismtools:refined_glowstone_helmet (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:pellets/uranium238
+- nuclearscience:uranium238 (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:gems
+- #forge:gems/fluorite (from Mekanism-1.19.2-10.3.5.473.jar)
+- powah:crystal_blazing (from Powah-4.0.6.jar)
+- powah:crystal_niotic (from Powah-4.0.6.jar)
+- powah:crystal_spirited (from Powah-4.0.6.jar)
+- powah:crystal_nitro (from Powah-4.0.6.jar)
+- #forge:gems/amethyst (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:gems/diamond (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:gems/emerald (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:gems/lapis (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:gems/prismarine (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:gems/quartz (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+
+#forge:plates/bronze
+- electrodynamics:platebronze (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:end_stones
+- minecraft:end_stone (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/shovels/steel
+- mekanismtools:steel_shovel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:tools/axes/bronze
+- mekanismtools:bronze_axe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/fluorite
+- mekanism:block_fluorite (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#balm:ingots
+- #forge:ingots? (from balm-4.5.3.jar)
+
+#forge:rods/titaniumcarbide
+- electrodynamics:rodtitaniumcarbide (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ingots/aluminum
+- electrodynamics:ingotaluminum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ores/sulfur
+- electrodynamics:oresulfur (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoresulfur (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:colorable/glass_panes
+- minecraft:glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:white_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_stained_glass_pane (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:fences/wooden
+- #minecraft:wooden_fences (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/netherite
+- mekanism:dust_netherite (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustnetherite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dusts/emerald
+- mekanism:dust_emerald (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks
+- #forge:storage_blocks/bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/charcoal (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/fluorite (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/raw_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/raw_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/raw_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:storage_blocks/raw_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- powah:uraninite_block (from Powah-4.0.6.jar)
+- #forge:storage_blocks/amethyst (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/coal (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/copper (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/diamond (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/emerald (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/gold (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/iron (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/lapis (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/quartz (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/raw_copper (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/raw_gold (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/raw_iron (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/redstone (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:storage_blocks/netherite (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:gems/fluorite
+- mekanism:fluorite_gem (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/bronze
+- mekanism:ingot_bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:ingotbronze (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+- mekanism:ingot_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_steel (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/copper
+- minecraft:copper_ingot (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- minecraft:copper_ingot (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ingots/brick
+- minecraft:brick (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:plates/aluminum
+- electrodynamics:platealuminum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#alexsmobs:animal_dictionary_ingredient
+- alexsmobs:crocodile_scute (from alexsmobs-1.21.1.jar)
+- alexsmobs:bear_fur (from alexsmobs-1.21.1.jar)
+- alexsmobs:roadrunner_feather (from alexsmobs-1.21.1.jar)
+- alexsmobs:gazelle_horn (from alexsmobs-1.21.1.jar)
+- alexsmobs:rattlesnake_rattle (from alexsmobs-1.21.1.jar)
+- alexsmobs:komodo_spit (from alexsmobs-1.21.1.jar)
+- alexsmobs:centipede_leg (from alexsmobs-1.21.1.jar)
+- alexsmobs:moose_antler (from alexsmobs-1.21.1.jar)
+- alexsmobs:raccoon_tail (from alexsmobs-1.21.1.jar)
+- alexsmobs:cockroach_wing (from alexsmobs-1.21.1.jar)
+- alexsmobs:spiked_scute (from alexsmobs-1.21.1.jar)
+- alexsmobs:straddlite (from alexsmobs-1.21.1.jar)
+- alexsmobs:emu_feather (from alexsmobs-1.21.1.jar)
+- alexsmobs:dropbear_claw (from alexsmobs-1.21.1.jar)
+- alexsmobs:cachalot_whale_tooth (from alexsmobs-1.21.1.jar)
+- alexsmobs:capsid (from alexsmobs-1.21.1.jar)
+- alexsmobs:rocky_shell (from alexsmobs-1.21.1.jar)
+
+#forge:glass/blue
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+
+#forge:wool/orange
+- minecraft:orange_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:storage_blocks/coal
+- minecraft:coal_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:impuredusts/gold
+- electrodynamics:impuredustgold (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/helmets/bronze
+- mekanismtools:bronze_helmet (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:slabs/plastic
+- mekanismadditions:black_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:tools/hoes/refined_glowstone
+- mekanismtools:refined_glowstone_hoe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/paxels/netherite
+- mekanismtools:netherite_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/amethyst
+- minecraft:amethyst_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#c:quartz_blocks
+- #forge:storage_blocks/quartz (from Powah-4.0.6.jar)
+
+#mekanism:enriched/tin
+- mekanism:enriched_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+- #forge:stairs/plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #forge:stairs/plastic/glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #forge:stairs/plastic/transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #securitycraft:reinforced/stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:crystal_quartz_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:ingots/hslasteel
+- electrodynamics:ingothslasteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:wool/light_blue
+- minecraft:light_blue_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+
+#forge:raw_materials/gold
+- minecraft:raw_gold (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/leggings/refined_obsidian
+- mekanismtools:refined_obsidian_leggings (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:grizzly_foodstuffs
+- #alexsmobs:grizzly_honey (from alexsmobs-1.21.1.jar)
+- minecraft:salmon (from alexsmobs-1.21.1.jar)
+- minecraft:bee_nest (from alexsmobs-1.21.1.jar)
+- minecraft:beetroot (from alexsmobs-1.21.1.jar)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- alexsmobs:shark_tooth_arrow (from alexsmobs-1.21.1.jar)
+
+#securitycraft:reinforced/planks
+- securitycraft:reinforced_acacia_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_birch_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crimson_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_oak_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_jungle_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mangrove_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_oak_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_spruce_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_warped_planks (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:storage_blocks/uraninite
+- powah:uraninite_block (from Powah-4.0.6.jar)
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+
+#forge:gears/bronze
+- electrodynamics:gearbronze (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:tools/pickaxes/bronze
+- mekanismtools:bronze_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:dusts/fluorite
+- mekanism:dust_fluorite (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#forge:glass/purple
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/shovels
+- minecraft:wooden_shovel (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stone_shovel (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_shovel (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_shovel (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_shovel (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_shovel (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/shovels/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shovels/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shovels/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shovels/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shovels/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/shovels/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/magenta
+- minecraft:magenta_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#balm:wooden_rods
+- #forge:rods/wooden? (from balm-4.5.3.jar)
+- minecraft:stick (from balm-4.5.3.jar)
+
+#forge:tools/swords/refined_obsidian
+- mekanismtools:refined_obsidian_sword (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+
+#forge:nuggets/hslasteel
+- electrodynamics:nuggethslasteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#forge:raw_materials/osmium
+- mekanism:raw_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/cyan
+- minecraft:cyan_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+- #securitycraft:reinforced/terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#mekanism:crystals/uranium
+- mekanism:crystal_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:shards/tin
+- mekanism:shard_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:raw_materials/vanadinite
+- electrodynamics:raworevanadinite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:crystals/tin
+- mekanism:crystal_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:impuredusts/vanadium
+- electrodynamics:impuredustvanadium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:wool/blue
+- minecraft:blue_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#mekanism:shards/osmium
+- mekanism:shard_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/molybdenum
+- electrodynamics:oremolybdenum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoremolybdenum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:salt
+- #forge:dusts/salt (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/iron
+- minecraft:iron_ingot (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:crops/rice
+
+#forge:dyes/purple
+- minecraft:purple_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#balm:iron_nuggets
+- #forge:nuggets/iron? (from balm-4.5.3.jar)
+- minecraft:iron_nugget (from balm-4.5.3.jar)
+
+#forge:ores_in_ground/deepslate
+- mekanism:deepslate_tin_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_osmium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_uranium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_fluorite_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_lead_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/vanadium
+- electrodynamics:dustvanadium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ingots/lithium
+- electrodynamics:ingotlithium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#securitycraft:secret_signs
+- securitycraft:secret_acacia_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_birch_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_crimson_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_dark_oak_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_jungle_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_mangrove_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_spruce_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:secret_warped_sign_item (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+
+#forge:storage_blocks/titanium
+- electrodynamics:resourceblocktitanium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:enriched/obsidian
+- mekanism:enriched_refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:sand
+- #forge:sand/colorless (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:sand/red (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/jungle_logs
+- securitycraft:reinforced_jungle_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_jungle_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_jungle_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_jungle_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#alexsmobs:elephant_foodstuffs
+- #minecraft:leaves (from alexsmobs-1.21.1.jar)
+- #minecraft:saplings (from alexsmobs-1.21.1.jar)
+- minecraft:sugar_cane (from alexsmobs-1.21.1.jar)
+- minecraft:apple (from alexsmobs-1.21.1.jar)
+- minecraft:beetroot (from alexsmobs-1.21.1.jar)
+- minecraft:potato (from alexsmobs-1.21.1.jar)
+- minecraft:carrot (from alexsmobs-1.21.1.jar)
+- minecraft:golden_carrot (from alexsmobs-1.21.1.jar)
+- minecraft:baked_potato (from alexsmobs-1.21.1.jar)
+- minecraft:hay_block (from alexsmobs-1.21.1.jar)
+- minecraft:bamboo (from alexsmobs-1.21.1.jar)
+- #alexsmobs:bananas (from alexsmobs-1.21.1.jar)
+- alexsmobs:acacia_blossom (from alexsmobs-1.21.1.jar)
+- minecraft:melon_slice (from alexsmobs-1.21.1.jar)
+- minecraft:sweet_berries (from alexsmobs-1.21.1.jar)
+
+#forge:dyes/yellow
+- mekanism:dust_sulfur (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#c:glass_panes
+- #forge:glass_panes (from Powah-4.0.6.jar)
+
+#forge:storage_blocks/raw_gold
+- minecraft:raw_gold_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/paxels/gold
+- mekanismtools:gold_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#forge:armors/leggings/hazmat
+- mekanism:hazmat_pants (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/silver
+- electrodynamics:resourceblocksilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ores/gold
+- #minecraft:gold_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:plates/stainlesssteel
+- electrodynamics:platestainlesssteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ores/salt
+- electrodynamics:orehalite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorehalite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:raw_materials
+- #forge:raw_materials/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:raw_materials/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:raw_materials/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:raw_materials/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:raw_materials/uraninite (from Powah-4.0.6.jar)
+- #forge:raw_materials/copper (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:raw_materials/gold (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:raw_materials/iron (from forge-1.19.2-43.2.3-universal.jar)
+
+#trajanstanks:fuel
+- minecraft:coal (from trajans-tanks-forge-1.19-2.4.jar)
+- minecraft:charcoal (from trajans-tanks-forge-1.19-2.4.jar)
+
+#mekanism:colorable/beds
+- minecraft:white_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_bed (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:crystals
+- #mekanism:crystals/iron (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:crystals/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:crystals/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:crystals/copper (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:crystals/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:crystals/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:crystals/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/swords/bronze
+- mekanismtools:bronze_sword (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:dusts/steel
+- mekanism:dust_steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:duststeel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#alexsmobs:bald_eagle_tameables
+- alexsmobs:fish_oil (from alexsmobs-1.21.1.jar)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+- securitycraft:reinforced_soul_lantern (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:gears/steel
+- electrodynamics:gearsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:raw_materials/silver
+- electrodynamics:raworesilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:glass/black
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#alexsmobs:tiger_breedables
+- alexsmobs:acacia_blossom (from alexsmobs-1.21.1.jar)
+
+#forge:plates/hslasteel
+- electrodynamics:platehslasteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dusts/coal
+- mekanism:dust_coal (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/spruce_logs
+- securitycraft:reinforced_spruce_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_spruce_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_spruce_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_spruce_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/leggings
+- #forge:armors/leggings/hazmat (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:leather_leggings (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:chainmail_leggings (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_leggings (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_leggings (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_leggings (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_leggings (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:armors/leggings/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/leggings/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/leggings/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/leggings/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/leggings/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/leggings/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:rods
+- #forge:rods/plastic (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:rods/blaze (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:rods/wooden (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass/lime
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:chests/wooden
+- minecraft:chest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:trapped_chest (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/aluminum
+- electrodynamics:resourceblockaluminum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ores/iron
+- #minecraft:iron_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/paxels/steel
+- mekanismtools:steel_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#forge:dusts/copper
+- mekanism:dust_copper (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustcopper (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:gems/emerald
+- minecraft:emerald (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/chestplates
+- #forge:armors/chestplates/hazmat (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:leather_chestplate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:chainmail_chestplate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_chestplate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_chestplate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_chestplate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_chestplate (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:armors/chestplates/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/chestplates/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/chestplates/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/chestplates/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/chestplates/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/chestplates/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#balm:brown_dyes
+- #forge:dyes/brown? (from balm-4.5.3.jar)
+- minecraft:brown_dye (from balm-4.5.3.jar)
+
+#forge:tools/shields/osmium
+- mekanismtools:osmium_shield (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+
+#alexsmobs:void_worm_drops
+- alexsmobs:void_worm_mandible (from alexsmobs-1.21.1.jar)
+- alexsmobs:void_worm_eye (from alexsmobs-1.21.1.jar)
+
+#forge:ores/saltpeter
+- electrodynamics:oreniter (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoreniter (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#securitycraft:reinforced/stone_bricks
+- securitycraft:reinforced_stone_bricks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mossy_stone_bricks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cracked_stone_bricks (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_chiseled_stone_bricks (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+
+#forge:tools
+- #forge:tools/wrench (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:tools/swords (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/axes (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/pickaxes (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/shovels (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/hoes (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/shields (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/bows (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/crossbows (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/fishing_rods (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/tridents (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/paxels (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:tools/paxels/refined_glowstone
+- mekanismtools:refined_glowstone_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:nuggets/uranium
+- mekanism:nugget_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:gears/tin
+- electrodynamics:geartin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#balm:black_dyes
+- minecraft:black_dye (from balm-4.5.3.jar)
+- #forge:dyes/black? (from balm-4.5.3.jar)
+
+#forge:glass/orange
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/axes/refined_glowstone
+- mekanismtools:refined_glowstone_axe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:dusts/refined_obsidian
+- mekanism:dust_refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/terracotta
+- securitycraft:reinforced_white_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_orange_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_magenta_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_light_blue_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_yellow_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_lime_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_pink_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_gray_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_light_gray_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cyan_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_purple_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_blue_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_brown_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_green_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_red_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_black_terracotta (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:dyes/green
+- minecraft:green_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+- #forge:slabs/plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #forge:slabs/plastic/glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #forge:slabs/plastic/transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #securitycraft:reinforced/slabs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:crystal_quartz_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:ores/emerald
+- #minecraft:emerald_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/paxels/refined_obsidian
+- mekanismtools:refined_obsidian_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:plates/steel
+- electrodynamics:platesteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#balm:lime_dyes
+- #forge:dyes/lime? (from balm-4.5.3.jar)
+- minecraft:lime_dye (from balm-4.5.3.jar)
+
+#forge:fuels/heuo2
+- nuclearscience:fuelheuo2 (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#mekanism:enriched
+- #mekanism:enriched/carbon (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:enriched/diamond (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:enriched/obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:enriched/redstone (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:enriched/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:enriched/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/lime
+- minecraft:lime_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/diamond
+- mekanism:dust_diamond (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:alloys/reinforced
+- #forge:alloys/elite (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:oxide/thionylchloride
+- electrodynamics:oxidethionylchloride (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+
+#forge:plates/iron
+- electrodynamics:plateiron (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:circuits/ultimate
+- mekanism:ultimate_control_circuit (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:circuitultimate (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dusts/charcoal
+- mekanism:dust_charcoal (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+- securitycraft:track_mine (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:wool/lime
+- minecraft:lime_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:impuredusts/copper
+- electrodynamics:impuredustcopper (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#securitycraft:reinforced/buttons
+- securitycraft:reinforced_stone_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_oak_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_spruce_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_birch_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_jungle_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_acacia_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_oak_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crimson_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_warped_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_blackstone_button (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:nuggets/silver
+- electrodynamics:nuggetsilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:barrels/wooden
+- minecraft:barrel (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+
+#forge:dusts/silica
+- electrodynamics:dustsilica (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:oxide/vanadium
+- electrodynamics:oxidevanadium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:oxide/sulfurdichloride
+- electrodynamics:oxidesulfurdichloride (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:impuredusts/lithium
+- electrodynamics:impuredustlithium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:storage_blocks/raw_iron
+- minecraft:raw_iron_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:clumps/copper
+- mekanism:clump_copper (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+
+#forge:nuggets/osmium
+- mekanism:nugget_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:pellets/antimatter
+- mekanism:pellet_antimatter (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:shards/iron
+- mekanism:shard_iron (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:bookshelves
+- minecraft:bookshelf (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/boots/steel
+- mekanismtools:steel_boots (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:ores_in_ground/stone
+- mekanism:tin_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:osmium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:uranium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:fluorite_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:lead_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:coal_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:copper_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.2.3-universal.jar)
+
+#balm:orange_dyes
+- #forge:dyes/orange? (from balm-4.5.3.jar)
+- minecraft:orange_dye (from balm-4.5.3.jar)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#forge:dyes
+- #forge:dyes/white (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/orange (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/magenta (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/light_blue (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/yellow (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/lime (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/pink (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/gray (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/light_gray (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/cyan (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/purple (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/blue (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/brown (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/green (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/red (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dyes/black (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:fuels/bio
+- mekanism:bio_fuel (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/shields/steel
+- mekanismtools:steel_shield (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#forge:dusts/obsidian
+- mekanism:dust_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustobsidian (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#forge:armors/boots/osmium
+- mekanismtools:osmium_boots (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:netherrack
+- minecraft:netherrack (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:impuredusts/iron
+- electrodynamics:impuredustiron (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
+- mekanism:atomic_disassembler (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:meka_tool (from Mekanism-1.19.2-10.3.5.473.jar)
+- alexsmobs:ghostly_pickaxe (from alexsmobs-1.21.1.jar)
+- mekanismtools:wood_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:stone_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:iron_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:diamond_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:gold_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:netherite_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:bronze_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:bronze_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:lapis_lazuli_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:lapis_lazuli_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:osmium_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:osmium_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_obsidian_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_obsidian_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:steel_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:steel_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:wool/cyan
+- minecraft:cyan_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+
+#securitycraft:can_interact_with_doors
+- securitycraft:admin_tool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:codebreaker (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:sonic_security_system (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:universal_block_modifier (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:universal_block_remover (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:universal_key_changer (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:universal_owner_changer (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:modules (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:storage_blocks/chromium
+- electrodynamics:resourceblockchromium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:tools/hoes/steel
+- mekanismtools:steel_hoe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/oak_logs
+- securitycraft:reinforced_oak_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_oak_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_oak_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_oak_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#mekanism:colorable/banners
+- minecraft:white_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_banner (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/hoes/lapis_lazuli
+- mekanismtools:lapis_lazuli_hoe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/stainlesssteel
+- electrodynamics:resourceblockstainlesssteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:eggs
+- alexsmobs:crocodile_egg (from alexsmobs-1.21.1.jar)
+- alexsmobs:emu_egg (from alexsmobs-1.21.1.jar)
+- alexsmobs:terrapin_egg (from alexsmobs-1.21.1.jar)
+- minecraft:egg (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:batteries
+- mekanism:energy_tablet (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/molybdenum
+- electrodynamics:ingotmolybdenum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:tools/paxels/lapis_lazuli
+- mekanismtools:lapis_lazuli_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanismadditions:plastic_blocks/glow
+- mekanismadditions:black_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/red
+- minecraft:red_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/shields/refined_glowstone
+- mekanismtools:refined_glowstone_shield (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/wool
+- securitycraft:reinforced_white_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_orange_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_magenta_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_light_blue_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_yellow_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_lime_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_pink_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_gray_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_light_gray_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cyan_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_purple_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_blue_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_brown_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_green_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_red_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_black_wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:armors/chestplates/osmium
+- mekanismtools:osmium_chestplate (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#balm:ores
+- #forge:ores? (from balm-4.5.3.jar)
+
+#forge:gravel
+- minecraft:gravel (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:stairs/plastic/transparent
+- mekanismadditions:black_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_transparent_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/shields/refined_obsidian
+- mekanismtools:refined_obsidian_shield (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/black
+- minecraft:black_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/titaniumcarbide
+- electrodynamics:resourceblocktitaniumcarbide (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:raw_materials/fluorite
+- electrodynamics:raworefluorite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#securitycraft:modules
+- securitycraft:whitelist_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:blacklist_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:disguise_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:harming_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:redstone_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:smart_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:speed_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:storage_module (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ores/monazite
+- electrodynamics:oremonazite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoremonazite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#forge:glass/colorless
+- minecraft:glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/paxels/diamond
+- mekanismtools:diamond_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:ores/vanadium
+- electrodynamics:orevanadinite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorevanadinite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ingots/superconductive
+- electrodynamics:ingotsuperconductive (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:enriched/redstone
+- mekanism:enriched_redstone (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/crossbows
+- minecraft:crossbow (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanismadditions:plastic_blocks/reinforced
+- mekanismadditions:black_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_reinforced_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:nuggets/copper
+- electrodynamics:nuggetcopper (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:stained_glass
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:crops/carrot
+- minecraft:carrot (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:raw_materials/lead
+- mekanism:raw_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:raworelead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:tools/axes/refined_obsidian
+- mekanismtools:refined_obsidian_axe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:nuggets/gold
+- minecraft:gold_nugget (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:dirty_dusts/lead
+- mekanism:dirty_dust_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:armors/helmets/steel
+- mekanismtools:steel_helmet (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:yellow_cake_uranium
+- mekanism:yellow_cake_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- nuclearscience:yellowcake (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#forge:nether_stars
+- minecraft:nether_star (from forge-1.19.2-43.2.3-universal.jar)
+
+#balm:iron_ingots
+- #forge:ingots/iron? (from balm-4.5.3.jar)
+- minecraft:iron_ingot (from balm-4.5.3.jar)
+
+#forge:ingots/tin
+- mekanism:ingot_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:ingottin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dyes/blue
+- minecraft:blue_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/iron
+- minecraft:iron_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/pickaxes
+- minecraft:wooden_pickaxe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stone_pickaxe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_pickaxe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_pickaxe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_pickaxe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_pickaxe (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/pickaxes/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/pickaxes/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/pickaxes/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/pickaxes/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/pickaxes/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/pickaxes/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/cobblestone
+- securitycraft:reinforced_cobblestone (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mossy_cobblestone (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#alexsmobs:gorilla_foodstuffs
+- #minecraft:leaves (from alexsmobs-1.21.1.jar)
+- minecraft:sugar_cane (from alexsmobs-1.21.1.jar)
+- minecraft:apple (from alexsmobs-1.21.1.jar)
+- minecraft:bamboo (from alexsmobs-1.21.1.jar)
+- #alexsmobs:bananas (from alexsmobs-1.21.1.jar)
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/armors/hazmat
+- mekanism:hazmat_mask (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:heads
+- minecraft:creeper_head (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dragon_head (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:player_head (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:skeleton_skull (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wither_skeleton_skull (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:zombie_head (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/axes
+- minecraft:wooden_axe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stone_axe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_axe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_axe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_axe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_axe (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/axes/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/axes/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/axes/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/axes/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/axes/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/axes/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/wool_carpets
+- securitycraft:reinforced_white_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_orange_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_magenta_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_light_blue_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_yellow_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_lime_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_pink_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_gray_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_light_gray_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cyan_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_purple_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_blue_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_brown_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_green_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_red_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_black_carpet (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#balm:red_dyes
+- #forge:dyes/red? (from balm-4.5.3.jar)
+- minecraft:red_dye (from balm-4.5.3.jar)
+
+#forge:circuits/basic
+- mekanism:basic_control_circuit (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:circuitbasic (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#forge:bones
+- minecraft:bone (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/steel
+- mekanism:block_steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:resourceblocksteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:tools/hoes/osmium
+- mekanismtools:osmium_hoe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:glass_panes
+- #forge:glass_panes/colorless (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:stained_glass_panes (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:enchanting_fuels
+- #forge:gems/lapis (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:shards/uranium
+- mekanism:shard_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+
+#forge:tools/shields/bronze
+- mekanismtools:bronze_shield (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanism:colorable/glass
+- minecraft:glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:white_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_stained_glass (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/fluorite
+- mekanism:fluorite_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_fluorite_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:orefluorite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorefluorite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dusts/iron
+- mekanism:dust_iron (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustiron (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:colorable/concrete
+- minecraft:white_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_concrete (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/ice
+- securitycraft:reinforced_ice (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_packed_ice (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_blue_ice (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:tools/paxels/osmium
+- mekanismtools:osmium_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanismadditions:plastic_blocks/slick
+- mekanismadditions:black_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_slick_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/refined_glowstone
+- mekanism:block_refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:mushrooms
+- minecraft:brown_mushroom (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:red_mushroom (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:gears/iron
+- electrodynamics:geariron (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ices/blue
+- minecraft:blue_ice (from Powah-4.0.6.jar)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#forge:impuredusts/lead
+- electrodynamics:impuredustlead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:tools/swords
+- minecraft:wooden_sword (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stone_sword (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_sword (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_sword (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_sword (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_sword (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/swords/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/swords/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/swords/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/swords/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/swords/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/swords/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:armors/helmets/osmium
+- mekanismtools:osmium_helmet (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/bronze
+- mekanism:block_bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:resourceblockbronze (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ingots/steel
+- mekanism:ingot_steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:ingotsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:shards
+- #mekanism:shards/iron (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:shards/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:shards/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:shards/copper (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:shards/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:shards/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:shards/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:dusts/poison
+- ballistix:dustpoison (from Ballistix-1.19.2-0.6.0-2.jar)
+
+#forge:crops/banana
+- alexsmobs:banana (from alexsmobs-1.21.1.jar)
+
+#forge:storage_blocks/raw_lead
+- mekanism:block_raw_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/leggings/lapis_lazuli
+- mekanismtools:lapis_lazuli_leggings (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+- #forge:fences/plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- securitycraft:electrified_iron_fence (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#forge:storage_blocks/tin
+- mekanism:block_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:resourceblocktin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ores/copper
+- minecraft:copper_ore (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- minecraft:deepslate_copper_ore (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #minecraft:copper_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/pickaxes/lapis_lazuli
+- mekanismtools:lapis_lazuli_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+
+#forge:tools/tridents
+- minecraft:trident (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:fruits/banana
+- alexsmobs:banana (from alexsmobs-1.21.1.jar)
+
+#forge:armors/boots
+- #forge:armors/boots/hazmat (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:leather_boots (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:chainmail_boots (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_boots (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_boots (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_boots (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_boots (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:armors/boots/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/boots/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/boots/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/boots/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/boots/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:armors/boots/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanismadditions:glow_panels
+- mekanismadditions:black_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_glow_panel (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:obsidian
+- minecraft:obsidian (from forge-1.19.2-43.2.3-universal.jar)
+
+#alexsmobs:shoebill_foodstuffs
+- #minecraft:fishes (from alexsmobs-1.21.1.jar)
+
+#forge:alloys/ultimate
+- mekanism:alloy_atomic (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/swords/steel
+- mekanismtools:steel_sword (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanism:clumps/osmium
+- mekanism:clump_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:slabs/plastic/glow
+- mekanismadditions:black_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_glow_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:ore_rates/singular
+- mekanism:tin_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_tin_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:osmium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_osmium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:uranium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_uranium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:lead_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_lead_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:ancient_debris (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:coal_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+- #securitycraft:reinforced/wool (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:storage_blocks/raw_uranium
+- mekanism:block_raw_uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/stone
+- securitycraft:reinforced_andesite (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_diorite (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_granite (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stone (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_andesite (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_diorite (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_granite (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:raw_materials/copper
+- minecraft:raw_copper (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/paxels/wood
+- mekanismtools:wood_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:wool/green
+- minecraft:green_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:ores/coal
+- #minecraft:coal_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:colorable/wool
+- minecraft:white_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_wool (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:storage_blocks/raw_tin
+- mekanism:block_raw_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:plates/titanium
+- electrodynamics:platetitanium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:feathers
+- minecraft:feather (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/dark_oak_logs
+- securitycraft:reinforced_dark_oak_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_oak_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_dark_oak_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_dark_oak_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#alexsmobs:raccoon_foodstuffs
+- minecraft:egg (from alexsmobs-1.21.1.jar)
+- minecraft:turtle_egg (from alexsmobs-1.21.1.jar)
+- alexsmobs:crocodile_egg (from alexsmobs-1.21.1.jar)
+- alexsmobs:terrapin_egg (from alexsmobs-1.21.1.jar)
+- minecraft:sugar (from alexsmobs-1.21.1.jar)
+
+#forge:nuggets/refined_glowstone
+- mekanism:nugget_refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#balm:magenta_dyes
+- #forge:dyes/magenta? (from balm-4.5.3.jar)
+- minecraft:magenta_dye (from balm-4.5.3.jar)
+
+#forge:tools/shovels/refined_glowstone
+- mekanismtools:refined_glowstone_shovel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#balm:light_gray_dyes
+- #forge:dyes/light_gray? (from balm-4.5.3.jar)
+- minecraft:light_gray_dye (from balm-4.5.3.jar)
+
+#forge:fences/plastic
+- mekanismadditions:black_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_fence (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:dusts/silver
+- electrodynamics:dustsilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:plates/lead
+- electrodynamics:platelead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:string
+- minecraft:string (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/wooden_stairs
+- securitycraft:reinforced_oak_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_spruce_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_birch_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_jungle_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_acacia_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_oak_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mangrove_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crimson_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_warped_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:ingots/titaniumcarbide
+- electrodynamics:ingottitaniumcarbide (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+- securitycraft:reinforced_iron_trapdoor (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:ingots/gold
+- minecraft:gold_ingot (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:leather
+- minecraft:leather (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/salt
+- mekanism:salt (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustsalt (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#balm:stones
+- #forge:stone? (from balm-4.5.3.jar)
+- minecraft:andesite (from balm-4.5.3.jar)
+- minecraft:diorite (from balm-4.5.3.jar)
+- minecraft:granite (from balm-4.5.3.jar)
+- minecraft:infested_stone (from balm-4.5.3.jar)
+- minecraft:stone (from balm-4.5.3.jar)
+- minecraft:polished_andesite (from balm-4.5.3.jar)
+- minecraft:polished_diorite (from balm-4.5.3.jar)
+- minecraft:polished_granite (from balm-4.5.3.jar)
+- minecraft:deepslate (from balm-4.5.3.jar)
+- minecraft:polished_deepslate (from balm-4.5.3.jar)
+- minecraft:infested_deepslate (from balm-4.5.3.jar)
+- minecraft:tuff (from balm-4.5.3.jar)
+
+#forge:glass
+- #forge:glass/colorless (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:glass/tinted (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:raw_materials/tin
+- mekanism:raw_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:raworetin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#balm:eggs
+- #forge:eggs? (from balm-4.5.3.jar)
+- minecraft:egg (from balm-4.5.3.jar)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+
+#forge:nuggets/iron
+- minecraft:iron_nugget (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/nylium
+- securitycraft:reinforced_crimson_nylium (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_warped_nylium (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#balm:light_blue_dyes
+- #forge:dyes/light_blue? (from balm-4.5.3.jar)
+- minecraft:light_blue_dye (from balm-4.5.3.jar)
+
+#forge:oxide/sodiumcarbonate
+- electrodynamics:oxidesodiumcarbonate (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanismadditions:plastic_blocks/plastic
+- mekanismadditions:black_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:impuredusts/silver
+- electrodynamics:impuredustsilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:tools/shovels/osmium
+- mekanismtools:osmium_shovel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+
+#forge:ores_in_ground/netherrack
+- minecraft:nether_gold_ore (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ingots/titanium
+- electrodynamics:ingottitanium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ingots/stainlesssteel
+- electrodynamics:ingotstainlesssteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:crystals/copper
+- mekanism:crystal_copper (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:crops/potato
+- minecraft:potato (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#balm:pink_dyes
+- #forge:dyes/pink? (from balm-4.5.3.jar)
+- minecraft:pink_dye (from balm-4.5.3.jar)
+
+#alexsmobs:raccoon_dissolves
+- minecraft:sugar (from alexsmobs-1.21.1.jar)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#forge:wool/red
+- minecraft:red_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:dusts/saltpeter
+- electrodynamics:dustniter (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dusts/molybdenum
+- electrodynamics:dustmolybdenum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+- mekanism:block_refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:ingot_refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:dust_gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:enriched/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:shards/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:crystals/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:dirty_dusts/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:clumps/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- securitycraft:deepslate_gold_mine (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:gilded_blackstone_mine (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:gold_mine (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:nether_gold_mine (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_gold_block (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_raw_gold_block (from [1.19.2] SecurityCraft v1.9.4.jar)
+- mekanismtools:gold_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_axe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_shovel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_hoe (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_sword (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_helmet (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_chestplate (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_leggings (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_boots (from MekanismTools-1.19.2-10.3.5.473.jar)
+- mekanismtools:refined_glowstone_shield (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:tools/swords/lapis_lazuli
+- mekanismtools:lapis_lazuli_sword (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:tools/wrench
+- mekanism:configurator (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/mangrove_logs
+- securitycraft:reinforced_mangrove_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mangrove_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_mangrove_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_mangrove_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:nuggets/tin
+- mekanism:nugget_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:nuggettin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:plastic
+- electrodynamics:sheetplastic (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:sand/red
+- minecraft:red_sand (from forge-1.19.2-43.2.3-universal.jar)
+
+#balm:emeralds
+- #forge:gems/emeralds? (from balm-4.5.3.jar)
+- minecraft:emerald (from balm-4.5.3.jar)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#forge:armors/leggings/refined_glowstone
+- mekanismtools:refined_glowstone_leggings (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:glass/brown
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/gold
+- mekanism:dust_gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustgold (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:wool/purple
+- minecraft:purple_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#mekanism:shards/copper
+- mekanism:shard_copper (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+
+#forge:dusts/osmium
+- mekanism:dust_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:raw_materials/thorium
+- electrodynamics:raworethorium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:plates/vanadiumsteel
+- electrodynamics:platevanadiumsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:armors/chestplates/refined_obsidian
+- mekanismtools:refined_obsidian_chestplate (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#mekanism:colorable/candle
+- minecraft:candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:white_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_candle (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:alloys
+- #mekanism:alloys/basic (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:alloys/infused (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:alloys/reinforced (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:alloys/atomic (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:glass/gray
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:cells/antimatterverylarge
+- nuclearscience:cellantimatterverylarge (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ores/chromium
+- electrodynamics:orechromite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorechromite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:cells/darkmatter
+- nuclearscience:celldarkmatter (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:armors/chestplates/hazmat
+- mekanism:hazmat_gown (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#balm:blue_dyes
+- minecraft:blue_dye (from balm-4.5.3.jar)
+- #forge:dyes/blue? (from balm-4.5.3.jar)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+
+#forge:tools/paxels
+- #forge:tools/paxels/wood (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/stone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/gold (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/iron (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/diamond (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/netherite (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/paxels/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:dyes/white
+- minecraft:white_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#balm:cooking_oil
+- forge:cookingoil? (from balm-4.5.3.jar)
+
+#securitycraft:reinforced/logs
+- #securitycraft:reinforced/acacia_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/birch_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/crimson_stems (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/dark_oak_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/jungle_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/mangrove_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/oak_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/spruce_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/spruce_logs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- #securitycraft:reinforced/warped_stems (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:tools/bows
+- mekanism:electric_bow (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:bow (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+
+#forge:storage_blocks/refined_obsidian
+- mekanism:block_refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ore_bearing_ground/stone
+- minecraft:stone (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:wool/brown
+- minecraft:brown_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:storage_blocks/raw_osmium
+- mekanism:block_raw_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/osmium
+- mekanism:osmium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_osmium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:circuits/advanced
+- mekanism:advanced_control_circuit (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:circuitadvanced (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/redstone
+- minecraft:redstone (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/dirt
+- securitycraft:reinforced_grass_block (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dirt (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_coarse_dirt (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mud (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_podzol (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_moss_block (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mycelium (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_rooted_dirt (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:armors/leggings/bronze
+- mekanismtools:bronze_leggings (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:oxide/chromium
+- electrodynamics:oxidechromite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:dyes/pink
+- minecraft:pink_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:oxide/chromiumdisilicide
+- electrodynamics:oxidechromiumdisilicide (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:crystals/gold
+- mekanism:crystal_gold (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+
+#forge:gems/quartz
+- minecraft:quartz (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:crops/beetroot
+- minecraft:beetroot (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:seeds/melon
+- minecraft:melon_seeds (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/shields/lapis_lazuli
+- mekanismtools:lapis_lazuli_shield (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:ingots/refined_glowstone
+- mekanism:ingot_refined_glowstone (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:crops/wheat
+- minecraft:wheat (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#forge:dusts/superconductive
+- electrodynamics:dustsuperconductive (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:wool/white
+- minecraft:white_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:ores/thorium
+- electrodynamics:orethorianite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorethorianite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:wool/light_gray
+- minecraft:light_gray_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:tools/paxels/stone
+- mekanismtools:stone_paxel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:gears/copper
+- electrodynamics:gearcopper (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:colorable/concrete_powder
+- minecraft:white_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_concrete_powder (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/fishing_rods
+- minecraft:fishing_rod (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:dirty_dusts/tin
+- mekanism:dirty_dust_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:wool/yellow
+- minecraft:yellow_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:stone
+- minecraft:andesite (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diorite (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:granite (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:infested_stone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stone (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:polished_andesite (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:polished_diorite (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:polished_granite (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deepslate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:polished_deepslate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:infested_deepslate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:tuff (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ices/ice
+- minecraft:ice (from Powah-4.0.6.jar)
+
+#forge:wrenches
+- mekanism:configurator (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:nuggets/lead
+- mekanism:nugget_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:dirty_dusts/gold
+- mekanism:dirty_dust_gold (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/hoes
+- minecraft:wooden_hoe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stone_hoe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:iron_hoe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:golden_hoe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:diamond_hoe (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:netherite_hoe (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:tools/hoes/bronze (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/hoes/lapis_lazuli (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/hoes/osmium (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/hoes/refined_glowstone (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/hoes/refined_obsidian (from MekanismTools-1.19.2-10.3.5.473.jar)
+- #forge:tools/hoes/steel (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/end_stones
+- securitycraft:reinforced_end_stone (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:gunpowder
+- minecraft:gunpowder (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:wool/gray
+- minecraft:gray_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#alexsmobs:platypus_foodstuffs
+- minecraft:redstone (from alexsmobs-1.21.1.jar)
+- minecraft:redstone_block (from alexsmobs-1.21.1.jar)
+- alexsmobs:mosquito_larva (from alexsmobs-1.21.1.jar)
+- alexsmobs:maggot (from alexsmobs-1.21.1.jar)
+- alexsmobs:mosquito_larva (from alexsmobs-1.21.1.jar)
+- #minecraft:fishes (from alexsmobs-1.21.1.jar)
+- alexsmobs:lobster_tail (from alexsmobs-1.21.1.jar)
+- alexsmobs:cooked_lobster_tail (from alexsmobs-1.21.1.jar)
+
+#mekanism:shards/lead
+- mekanism:shard_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#securitycraft:reinforced/stairs
+- #securitycraft:reinforced/wooden_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cut_copper_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_exposed_cut_copper_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_weathered_cut_copper_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_oxidized_cut_copper_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_purpur_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cobblestone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stone_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mud_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_nether_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_sandstone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_quartz_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_prismarine_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_prismarine_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_prismarine_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_red_sandstone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_granite_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_smooth_red_sandstone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mossy_stone_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_diorite_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mossy_cobblestone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_end_stone_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_smooth_sandstone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_smooth_quartz_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_granite_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_andesite_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_red_nether_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_andesite_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_diorite_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cobbled_deepslate_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_deepslate_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_deepslate_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_deepslate_tile_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_blackstone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_blackstone_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_blackstone_brick_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crystal_quartz_stairs (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#forge:tools/axes/steel
+- mekanismtools:steel_axe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:armors/chestplates/bronze
+- mekanismtools:bronze_chestplate (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:ore_rates/sparse
+- minecraft:nether_gold_ore (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:crops
+- #forge:crops/beetroot (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:crops/carrot (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:crops/nether_wart (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:crops/potato (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:crops/wheat (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ore_bearing_ground/netherrack
+- minecraft:netherrack (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:wool/magenta
+- minecraft:magenta_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#alexsmobs:mimic_octopus_guardian_items
+- minecraft:prismarine_shard (from alexsmobs-1.21.1.jar)
+- minecraft:prismarine_crystals (from alexsmobs-1.21.1.jar)
+
+#balm:nuggets
+- #forge:nuggets? (from balm-4.5.3.jar)
+
+#forge:pellets/polonium
+- mekanism:pellet_polonium (from Mekanism-1.19.2-10.3.5.473.jar)
+- nuclearscience:polonium210 (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#mekanism:dirty_dusts/copper
+- mekanism:dirty_dust_copper (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:grizzly_honey
+- minecraft:honeycomb (from alexsmobs-1.21.1.jar)
+- minecraft:honey_block (from alexsmobs-1.21.1.jar)
+- minecraft:honeycomb_block (from alexsmobs-1.21.1.jar)
+- minecraft:honey_bottle (from alexsmobs-1.21.1.jar)
+
+#mekanism:enriched/gold
+- mekanism:enriched_gold (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:colorable/carpets
+- minecraft:white_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:orange_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:magenta_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_blue_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:yellow_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:lime_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:pink_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:gray_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:light_gray_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:cyan_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:purple_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:blue_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:brown_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:green_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:red_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+- minecraft:black_carpet (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/silver
+- electrodynamics:oresilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoresilver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#forge:alloys/elite
+- mekanism:alloy_reinforced (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:clumps/lead
+- mekanism:clump_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ores/uraninite
+- powah:uraninite_ore (from Powah-4.0.6.jar)
+- powah:uraninite_ore_poor (from Powah-4.0.6.jar)
+- powah:uraninite_ore_dense (from Powah-4.0.6.jar)
+- powah:deepslate_uraninite_ore (from Powah-4.0.6.jar)
+- powah:deepslate_uraninite_ore_poor (from Powah-4.0.6.jar)
+- powah:deepslate_uraninite_ore_dense (from Powah-4.0.6.jar)
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts
+- #forge:dusts/iron (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/copper (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/bronze (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/charcoal (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/coal (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/diamond (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/emerald (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/netherite (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/lapis (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/lithium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/quartz (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/salt (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/sulfur (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/wood (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/fluorite (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:dusts/glowstone (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dusts/prismarine (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:dusts/redstone (from forge-1.19.2-43.2.3-universal.jar)
+
+#alexsmobs:bananas
+- #forge:crops/banana (from alexsmobs-1.21.1.jar)
+- #forge:fruits/banana (from alexsmobs-1.21.1.jar)
+
+#forge:alloys/advanced
+- mekanism:alloy_infused (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:seeds
+- #forge:seeds/beetroot (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:seeds/melon (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:seeds/pumpkin (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:seeds/wheat (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:cells/antimatterlarge
+- nuclearscience:cellantimatterlarge (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#forge:dusts/thorium
+- nuclearscience:thorianitedust (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#forge:barrels
+- #forge:barrels/wooden (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:crystals/osmium
+- mekanism:crystal_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#alexsmobs:shrimp_rice_fryables
+- #forge:crops/rice (from alexsmobs-1.21.1.jar)
+
+#forge:oxide/dititanium
+- electrodynamics:oxidedititanium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:storage_blocks/hslasteel
+- electrodynamics:resourceblockhslasteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:ores/lapis
+- #minecraft:lapis_ores (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/slabs
+- #securitycraft:reinforced/wooden_slabs (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cut_copper_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_exposed_cut_copper_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_weathered_cut_copper_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_oxidized_cut_copper_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_normal_stone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_sandstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cut_sandstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cobblestone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stone_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mud_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_nether_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_quartz_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_red_sandstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cut_red_sandstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_purpur_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_prismarine_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_prismarine_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_prismarine_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_granite_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_smooth_red_sandstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mossy_stone_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_diorite_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mossy_cobblestone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_end_stone_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_smooth_sandstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_smooth_quartz_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_granite_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_andesite_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_red_nether_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_andesite_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_diorite_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_cobbled_deepslate_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_deepslate_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_deepslate_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_deepslate_tile_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_blackstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_blackstone_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_blackstone_brick_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crystal_quartz_slab (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:stairs/plastic
+- mekanismadditions:black_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_stairs (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:coal_coke
+- electrodynamics:coalcoke (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:slimeballs
+- minecraft:slime_ball (from forge-1.19.2-43.2.3-universal.jar)
+
+#balm:gold_nuggets
+- #forge:nuggets/gold? (from balm-4.5.3.jar)
+- minecraft:gold_nugget (from balm-4.5.3.jar)
+
+#forge:oxide/disulfur
+- electrodynamics:oxidedisulfur (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#alexsmobs:mimic_octopus_creeper_items
+- minecraft:gunpowder (from alexsmobs-1.21.1.jar)
+- minecraft:creeper_head (from alexsmobs-1.21.1.jar)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#forge:sawdust
+- #forge:dusts/wood (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+- alexsmobs:animal_dictionary (from alexsmobs-1.21.1.jar)
+
+#forge:chests/ender
+- minecraft:ender_chest (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:tools/hoes/bronze
+- mekanismtools:bronze_hoe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#forge:ores/potassiumchloride
+- electrodynamics:oresylvite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoresylvite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanismadditions:plastic_blocks
+- #mekanismadditions:plastic_blocks/glow (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #mekanismadditions:plastic_blocks/plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #mekanismadditions:plastic_blocks/reinforced (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #mekanismadditions:plastic_blocks/road (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #mekanismadditions:plastic_blocks/slick (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- #mekanismadditions:plastic_blocks/transparent (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#forge:slabs/plastic/transparent
+- mekanismadditions:black_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:blue_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:green_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:cyan_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:dark_red_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:purple_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:orange_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_gray_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:gray_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:light_blue_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:lime_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:aqua_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:red_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:magenta_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:yellow_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:white_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:brown_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+- mekanismadditions:pink_plastic_transparent_slab (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#mekanism:dirty_dusts/iron
+- mekanism:dirty_dust_iron (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#mekanism:personal_storage
+- mekanism:personal_barrel (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:personal_chest (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:tools/pickaxes/refined_glowstone
+- mekanismtools:refined_glowstone_pickaxe (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:spruce_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:birch_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jungle_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:acacia_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dark_oak_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:crimson_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:warped_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:mangrove_fence_gate (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/raw_copper
+- minecraft:raw_copper_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:ores/aluminum
+- electrodynamics:orealuminum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateorealuminum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#securitycraft:reinforced/birch_logs
+- securitycraft:reinforced_birch_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_birch_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_birch_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_birch_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:ores/uranium
+- mekanism:uranium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:deepslate_uranium_ore (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:oreuraninite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- electrodynamics:deepslateoreuraninite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:shears
+- minecraft:shears (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+
+#forge:wool/pink
+- minecraft:pink_wool (from CodeChickenLib-1.19.2-4.3.0.470-universal.jar)
+
+#forge:nuggets/steel
+- mekanism:nugget_steel (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:nuggetsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:clumps
+- #mekanism:clumps/iron (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:clumps/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:clumps/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:clumps/copper (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:clumps/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:clumps/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:clumps/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#balm:purple_dyes
+- #forge:dyes/purple? (from balm-4.5.3.jar)
+- minecraft:purple_dye (from balm-4.5.3.jar)
+
+#forge:ingots/lead
+- mekanism:ingot_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:ingotlead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:plates/titaniumcarbide
+- electrodynamics:platetitaniumcarbide (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#balm:wooden_chests
+- #forge:chests/wooden? (from balm-4.5.3.jar)
+- minecraft:chest (from balm-4.5.3.jar)
+- minecraft:trapped_chest (from balm-4.5.3.jar)
+
+#forge:ingots/vanadiumsteel
+- electrodynamics:ingotvanadiumsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#balm:dyes
+- #forge:dyes? (from balm-4.5.3.jar)
+
+#forge:tools/swords/osmium
+- mekanismtools:osmium_sword (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- alexsmobs:acacia_blossom (from alexsmobs-1.21.1.jar)
+
+#forge:dusts/quartz
+- mekanism:dust_quartz (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+
+#forge:dusts/tin
+- mekanism:dust_tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dusttin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#forge:cobblestone
+- #forge:cobblestone/normal (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:cobblestone/infested (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:cobblestone/mossy (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:cobblestone/deepslate (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#alexsmobs:mimic_octopus_pufferfish_items
+- minecraft:pufferfish (from alexsmobs-1.21.1.jar)
+- minecraft:pufferfish_bucket (from alexsmobs-1.21.1.jar)
+
+#forge:gems/amethyst
+- minecraft:amethyst_shard (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/acacia_logs
+- securitycraft:reinforced_acacia_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_acacia_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_acacia_log (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stripped_acacia_wood (from [1.19.2] SecurityCraft v1.9.4.jar)
+
+#forge:glass/silica
+- minecraft:glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/sulfur
+- mekanism:dust_sulfur (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustsulfur (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#c:glass_blocks
+- #forge:glass (from Powah-4.0.6.jar)
+
+#forge:dyes/brown
+- minecraft:brown_dye (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:storage_blocks/gold
+- minecraft:gold_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:armors/helmets/lapis_lazuli
+- mekanismtools:lapis_lazuli_helmet (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#forge:ores
+- #forge:ores/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ores/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ores/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ores/fluorite (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ores/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #forge:ores/uraninite (from Powah-4.0.6.jar)
+- #forge:ores/aluminum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/chromium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/copper (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/fluorite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/lead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/lithium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/molybdenum (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/monazite (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/potassiumchloride (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/salt (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/saltpeter (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/silver (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/sulfur (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/thorium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/tin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/titanium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/uranium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/vanadium (from Electrodynamics-1.19.2-0.7.0-4.jar)
+- #forge:ores/coal (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/copper (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/diamond (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/emerald (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/gold (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/iron (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/lapis (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/redstone (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/quartz (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:ores/netherite_scrap (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:rods/steel
+- electrodynamics:rodsteel (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:armors/boots/lapis_lazuli
+- mekanismtools:lapis_lazuli_boots (from MekanismTools-1.19.2-10.3.5.473.jar)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#forge:rods/wooden
+- minecraft:stick (from forge-1.19.2-43.2.3-universal.jar)
+
+#mekanism:crystals/iron
+- mekanism:crystal_iron (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:oxide/calciumcarbonate
+- electrodynamics:oxidecalciumcarbonate (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#mekanism:dirty_dusts
+- #mekanism:dirty_dusts/iron (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:dirty_dusts/gold (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:dirty_dusts/osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:dirty_dusts/copper (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:dirty_dusts/tin (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:dirty_dusts/lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- #mekanism:dirty_dusts/uranium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#curios:curio
+- powah:battery_starter (from Powah-4.0.6.jar)
+- powah:battery_basic (from Powah-4.0.6.jar)
+- powah:battery_hardened (from Powah-4.0.6.jar)
+- powah:battery_blazing (from Powah-4.0.6.jar)
+- powah:battery_niotic (from Powah-4.0.6.jar)
+- powah:battery_spirited (from Powah-4.0.6.jar)
+- powah:battery_nitro (from Powah-4.0.6.jar)
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:fences
+- #forge:fences/nether_brick (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:fences/wooden (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:fences/plastic (from MekanismAdditions-1.19.2-10.3.5.473.jar)
+
+#mekanism:dirty_dusts/osmium
+- mekanism:dirty_dust_osmium (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#curios:back
+- sophisticatedbackpacks:backpack (from sophisticatedbackpacks-1.19.2-3.18.40.775.jar)
+- sophisticatedbackpacks:iron_backpack (from sophisticatedbackpacks-1.19.2-3.18.40.775.jar)
+- sophisticatedbackpacks:gold_backpack (from sophisticatedbackpacks-1.19.2-3.18.40.775.jar)
+- sophisticatedbackpacks:diamond_backpack (from sophisticatedbackpacks-1.19.2-3.18.40.775.jar)
+- sophisticatedbackpacks:netherite_backpack (from sophisticatedbackpacks-1.19.2-3.18.40.775.jar)
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:dusts/lead
+- mekanism:dust_lead (from Mekanism-1.19.2-10.3.5.473.jar)
+- electrodynamics:dustlead (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:fuels/leuo2
+- nuclearscience:fuelleuo2 (from Nuclear Science-1.19.2-0.5.0-2.jar)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+- mekanism:mekasuit_helmet (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:mekasuit_bodyarmor (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:mekasuit_pants (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:mekasuit_boots (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:heart
+- alexsmobs:soul_heart (from alexsmobs-1.21.1.jar)
+
+#forge:impuredusts/tin
+- electrodynamics:impuredusttin (from Electrodynamics-1.19.2-0.7.0-4.jar)
+
+#forge:nuggets/refined_obsidian
+- mekanism:nugget_refined_obsidian (from Mekanism-1.19.2-10.3.5.473.jar)
+
+#forge:ore_bearing_ground/deepslate
+- minecraft:deepslate (from forge-1.19.2-43.2.3-universal.jar)
+
+#securitycraft:reinforced/pressure_plates
+- securitycraft:reinforced_oak_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_spruce_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_birch_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_jungle_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_acacia_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_dark_oak_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_mangrove_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_crimson_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_warped_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_stone_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
+- securitycraft:reinforced_polished_blackstone_pressure_plate (from [1.19.2] SecurityCraft v1.9.4.jar)
