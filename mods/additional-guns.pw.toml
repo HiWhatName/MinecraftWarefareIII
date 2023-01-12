@@ -1,0 +1,13 @@
+name = "Additional Guns"
+filename = "additional-guns-0.8.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "769b5c30d5599a9de41021b4b5d0e4bb6cc32c5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4326245
+project-id = 501214

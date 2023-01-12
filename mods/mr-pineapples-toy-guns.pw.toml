@@ -1,0 +1,13 @@
+name = "Mr Pineapple's Toy Guns"
+filename = "toyguns-0.3.1-1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89b84c5bf56666e8b133b31885d2faa34f91a884"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3931290
+project-id = 447471

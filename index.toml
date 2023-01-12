@@ -101,6 +101,11 @@ file = "icon.png"
 hash = "1d8f8a3f8e324f470962d44226742c3e954063a812685d297fa22a698c1d1d7b"
 
 [[files]]
+file = "mods/additional-guns.pw.toml"
+hash = "91b618dd5a20a8893a7741e20a442602843df02c907682483f31343aa11116bf"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
+file = "mods/mr-pineapples-toy-guns.pw.toml"
+hash = "b44a57ccf554065b0a138d534f5bb42e3e5086df8bf41d1719092e94951eeaa8"
 metafile = true
 
 [[files]]
