@@ -2,6 +2,3 @@
 	path = resourcepacks/Default-Dark-Mode
     url = https://github.com/nebuIr/Default-Dark-Mode/
     branch = tags/v1.3.4
-[submodule "shaderpacks/NobleRT"]
-	path = shaderpacks/NobleRT
-	url = https://github.com/BelmuTM/NobleRT
