@@ -1,6 +1,6 @@
 // priority: 0
 
-console.info('Hello, World! (You will see this line every time server resources reload)')
+console.info('[MWIII] => Reloading Resources! (Recipes, etc)')
 
 ServerEvents.recipes(event => {
     // Jetpacks
