@@ -618,6 +618,11 @@ hash = "589811220383729ea17edc4a87188130df3612be52e6abcf2deb466e5f548af0"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "c904616dcf20ecec8793dd8f736f878219332c82cc728ba430705a74b06f995a"
+metafile = true
+
+[[files]]
 file = "mods/electrodynamics.pw.toml"
 hash = "9f81dcfe5e2a036d0e88b6b3461789ceb35c7b60a6a04332fb27c8f9a210e302"
 metafile = true
